@@ -1,0 +1,59 @@
+# ------------------------------------------------------------------
+# Co-op Scout: search settings
+# Edit this file on GitHub (pencil icon) to change what the agent looks for.
+# Changes take effect on the next daily run.
+# ------------------------------------------------------------------
+
+home:
+  name: Newmarket
+  lat: 44.0592
+  lon: -79.4613
+priority_radius_km: 50          # "Close to home" tier on the website
+
+# The five core keywords. Each has the phrases that count as a match.
+keywords:
+  Mechanical Engineering: ["mechanical engineering", "mechanical engineer", "mechanical design", "mech. eng", "mechanical"]
+  SolidWorks: ["solidworks", "solid works"]
+  Design: ["design"]
+  Systems: ["systems", "system"]
+  Manufacturing: ["manufacturing", "production engineering", "process engineering", "assembly"]
+
+# Extra skills. These appear as tags on the site but don't change the core match score.
+bonus_skills: ["CAD", "GD&T", "FEA", "ANSYS", "CATIA", "NX", "Creo", "AutoCAD", "Inventor", "MATLAB", "prototype", "tolerance", "HVAC", "thermodynamics", "fluid"]
+
+# A posting has to look like a student role. These words are checked in the title, and in the description as a fallback.
+student_terms: ["co-op", "coop", "co op", "co‑op", "intern", "internship", "pey", "student", "work term", "placement", "stagiaire"]
+
+# Titles with these words are skipped unless the title also says "mechanical".
+exclude_title_terms: ["software", "electrical", "computer", "civil", "chemical", "human resources", "hr", "finance", "financial",
+  "accounting", "accountant", "marketing", "sales", "communications", "legal", "cyber", "data scien", "data analy",
+  "business", "audit", "payroll", "tax", "information technology", "developer", "nursing", "pharmac", "clinical",
+  "summer student - production", "production summer student", "customer service", "graphic", "recruit", "talent acquisition",
+  "supply chain analyst", "procurement", "actuar", "investment", "bank", "architect"]
+
+# Search phrases sent to each company's job board
+search_terms: ["co-op", "coop", "intern", "internship", "student", "PEY"]
+
+# Aggregator searches (Adzuna, Jooble, Job Bank)
+aggregator_queries: ["mechanical engineering co-op", "mechanical engineering intern", "mechanical engineering student", "manufacturing engineering co-op", "design engineering intern"]
+
+earliest_start: "2027-05"       # May 2027
+preferred_terms_months: [12, 16]
+
+# Default ranking weights, used for the email order and as the site's "Balanced" preset
+weights: {match: 35, dist: 20, term: 15, start: 15, pay: 10, fresh: 5}
+
+email:
+  send_when_nothing_new: false  # true = email every day even when nothing is new
+  weekly_roundup_weekday: 0     # 0 = Monday: a "top 10 overall" roundup even if nothing is new
+  max_items: 25
+  alert_if_sources_failing_pct: 50   # sends a "needs attention" note if more than this % of sources fail
+
+site_url: "https://thadaniavinash.github.io/Engineering_Coop_Agent/"
+
+# A listing is marked "closed" after it hasn't been seen for this many daily runs
+close_after_missed_runs: 3
+
+# Be polite: seconds between requests to the same site, and a cap on detail pages per company
+per_host_delay_seconds: 1.0
+max_details_per_company: 60

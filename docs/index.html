@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Co-op Scout</title>
+<meta name="description" content="12- and 16-month mechanical engineering co-op roles across Ontario, ranked by fit and distance from Newmarket.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230E6B7F'/%3E%3Ccircle cx='14' cy='14' r='7' fill='none' stroke='white' stroke-width='3'/%3E%3Cpath d='M19 19l6 6' stroke='white' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#results">Skip to listings</a>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <h1>Co-op Scout</h1>
+      <p id="tagline">12- and 16-month mechanical engineering co-op roles across Ontario, ranked by fit and distance from Newmarket.</p>
+    </div>
+    <div class="runinfo" id="runinfo">Loading…</div>
+  </header>
+
+  <section class="stats" id="stats" aria-label="Summary"></section>
+
+  <div class="layout">
+    <aside class="panel" aria-label="Rank and filter">
+      <details id="panelDetails" open>
+        <summary>Rank &amp; filter</summary>
+        <div class="pbody">
+          <div class="group">
+            <h3>What matters most</h3>
+            <div class="chips" id="presets">
+              <button type="button" class="chipbtn" data-preset="balanced">Balanced</button>
+              <button type="button" class="chipbtn" data-preset="fit">Best fit</button>
+              <button type="button" class="chipbtn" data-preset="close">Close to home</button>
+              <button type="button" class="chipbtn" data-preset="pay">Best pay</button>
+            </div>
+          </div>
+          <div class="group" id="weights"><h3>Suitability weights</h3></div>
+          <div class="group">
+            <h3>Filter</h3>
+            <div class="field">
+              <label for="maxKm">Max distance from Newmarket: <b id="maxKmOut">Any</b></label>
+              <input type="range" id="maxKm" min="25" max="300" step="25" value="300">
+              <label class="check"><input type="checkbox" id="unknownKm" checked> Include listings with unknown location</label>
+            </div>
+            <div class="field">
+              <span class="flabel">Term length</span>
+              <div class="chips" id="termChips"></div>
+            </div>
+            <div class="field">
+              <label for="sector">Sector</label>
+              <select id="sector"></select>
+            </div>
+            <div class="field">
+              <label for="statusF">My status</label>
+              <select id="statusF"></select>
+            </div>
+            <label class="check"><input type="checkbox" id="onlyNew"> New since last run only</label>
+            <label class="check"><input type="checkbox" id="onlyVerified"> Hide listings with unclear term or start</label>
+            <label class="check"><input type="checkbox" id="hideEarly"> Hide listings starting before May 2027</label>
+            <label class="check"><input type="checkbox" id="onlyStar"> Shortlist only</label>
+            <label class="check"><input type="checkbox" id="showClosed"> Show closed listings</label>
+            <button type="button" class="linkbtn" id="resetBtn">Reset filters &amp; weights</button>
+          </div>
+        </div>
+      </details>
+    </aside>
+
+    <main>
+      <div class="toolbar">
+        <input type="search" id="q" class="search" placeholder="Search title, company, city, keyword…" aria-label="Search listings">
+        <select id="sort" class="sortf" aria-label="Sort by">
+          <option value="score">Sort: Suitability score</option>
+          <option value="match">Sort: Keyword match</option>
+          <option value="dist">Sort: Distance (nearest)</option>
+          <option value="pay">Sort: Pay (highest)</option>
+          <option value="term">Sort: Term length (longest)</option>
+          <option value="start">Sort: Start date (earliest)</option>
+          <option value="deadline">Sort: Deadline (soonest)</option>
+          <option value="posted">Sort: Newest</option>
+          <option value="company">Sort: Company A–Z</option>
+        </select>
+        <div class="seg" role="group" aria-label="View">
+          <button type="button" id="vCards" aria-pressed="true">Cards</button>
+          <button type="button" id="vTable" aria-pressed="false">Table</button>
+        </div>
+        <button type="button" class="ghost" id="exportBtn" title="Download the filtered list, with your status marks, as a spreadsheet file">Export CSV</button>
+      </div>
+      <p class="count" id="count" aria-live="polite"></p>
+      <div id="results"></div>
+
+      <section class="sources" id="sources-section">
+        <h2>Sources</h2>
+        <p>Every board and company site the agent checked on the last run. Green means it was read successfully. The sites under "Check by hand" can't be read automatically, so they're worth a look yourself every week or two.</p>
+        <div class="srcgrid" id="sources"></div>
+        <h3 class="manualh">Check by hand</h3>
+        <div class="manual" id="manual"></div>
+      </section>
+
+      <section class="about">
+        <h2>How this works</h2>
+        <p>Every morning at about 7 a.m., a free GitHub Actions job searches the job boards and company careers sites listed above. It keeps student roles in Ontario that match the keywords, pulls out the term length, start date, pay and deadline where the posting states them, and updates this page. New listings are emailed. Once a week, Claude writes the short summaries and searches the web for employers the list doesn't cover yet.</p>
+        <p>Nothing is thrown away just because the posting is vague: those listings are marked <b>Needs check</b>. Distances are straight-line from Newmarket; driving is usually 20–30% farther. Your shortlist and status marks are saved in this browser only, so use <b>Export CSV</b> to keep a copy or move them to another device.</p>
+      </section>
+    </main>
+  </div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

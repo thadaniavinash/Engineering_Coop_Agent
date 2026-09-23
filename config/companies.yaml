@@ -1,0 +1,98 @@
+# ------------------------------------------------------------------
+# Co-op Scout: companies the agent checks every day
+#
+# Each entry has a name, sector, and ONE of:
+#   type + settings  -> a careers system the agent knows how to read directly
+#                       (workday, successfactors, phenom, oracle, greenhouse, lever, smartrecruiters, directemployers, tesla)
+#   careers_url      -> the agent opens the page, works out which system it uses, and remembers it
+#   manual: true     -> the agent can't read this site automatically; it's listed on the website as "check by hand"
+#
+# The weekly Claude task adds new companies to the "discovered" section at the bottom.
+# ------------------------------------------------------------------
+
+companies:
+  # ---------- The 10 seed boards ----------
+  - {name: Celestica, sector: Electronics manufacturing, type: successfactors, base: "https://careers.celestica.com"}
+  - {name: Multimatic, sector: Automotive, type: workday, host: multimatic.wd10.myworkdayjobs.com, tenant: multimatic, site: MMEC}
+  - {name: Magna International, sector: Automotive, type: workday, host: magna.wd3.myworkdayjobs.com, tenant: magna, site: Magna}
+  - {name: Bruce Power, sector: Nuclear & energy, type: workday, host: brucepower.wd3.myworkdayjobs.com, tenant: brucepower, site: BrucePower}
+  - {name: Ontario Power Generation, sector: Nuclear & energy, type: successfactors, base: "https://jobs.opg.com"}
+  - {name: Tesla, sector: Automotive, type: tesla, manual_url: "https://www.tesla.com/en_CA/careers/search/?type=intern&site=CA"}
+  - {name: "RTX (Pratt & Whitney Canada, Collins)", sector: Aerospace, type: workday, host: globalhr.wd5.myworkdayjobs.com, tenant: globalhr, site: REC_RTX_Ext_Gateway,
+     manual_url: "https://careers.rtx.com/global/en/pratt-and-whitney-canada"}
+  - {name: Honeywell, sector: Aerospace & automation, type: oracle, host: ibqbjb.fa.ocs.oraclecloud.com, site_numbers: [Honeywell, CX_1, CX],
+     location_id: "300000000469284", job_url: "https://careers.honeywell.com/en/sites/Honeywell/job/{id}",
+     manual_url: "https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Canada&locationId=300000000469284&locationLevel=country&mode=location"}
+  - {name: Procter & Gamble, sector: Consumer goods, type: phenom, base: "https://www.pgcareers.com", locale: "global/en",
+     manual_url: "https://www.pgcareers.com/global/en/locations/canada#job-search"}
+  - {name: AECOM, sector: Engineering consulting, type: directemployers, base: "https://canada.aecom.jobs"}
+
+  # ---------- Verified careers systems (Southern Ontario employers) ----------
+  - {name: General Motors Canada, sector: Automotive, type: workday, host: generalmotors.wd5.myworkdayjobs.com, tenant: generalmotors, site: Careers_GM}
+  - {name: Stellantis, sector: Automotive, type: workday, host: stellantis.wd3.myworkdayjobs.com, tenant: stellantis, site: External_Career_Site_ID01}
+  - {name: Honda Canada, sector: Automotive, type: workday, host: ch.wd3.myworkdayjobs.com, tenant: ch, site: Honda_Canada}
+  - {name: Toyota Canada (co-op site), sector: Automotive, type: workday, host: toyota.wd5.myworkdayjobs.com, tenant: toyota, site: Toyota_CA_Co-op_Site}
+  - {name: Toyota Canada, sector: Automotive, type: workday, host: toyota.wd5.myworkdayjobs.com, tenant: toyota, site: Toyota_CA}
+  - {name: AtkinsRéalis, sector: Nuclear & engineering, type: workday, host: snc.wd1.myworkdayjobs.com, tenant: snc, site: SNC_External_Career_Site}
+  - {name: GE Vernova, sector: Energy equipment, type: workday, host: gevernova.wd5.myworkdayjobs.com, tenant: gevernova, site: Vernova_ExternalSite}
+  - {name: CAE, sector: Aerospace, type: workday, host: cae.wd3.myworkdayjobs.com, tenant: cae, site: career}
+  - {name: Johnson Electric, sector: Industrial manufacturing, type: workday, host: johnsonelectric.wd3.myworkdayjobs.com, tenant: johnsonelectric, site: Career_JE}
+  - {name: Hydro One, sector: Utilities, type: successfactors, base: "https://jobs.hydroone.com"}
+  - {name: Kinectrics, sector: Nuclear & energy, type: successfactors, base: "https://careers.kinectrics.com"}
+  - {name: Hatch, sector: Engineering consulting, type: successfactors, base: "https://jobs.hatch.com"}
+  - {name: Bombardier, sector: Aerospace, type: successfactors, base: "https://jobs.bombardier.com"}
+  - {name: BWXT, sector: Nuclear & energy, type: successfactors, base: "https://careers.bwxt.com"}
+  - {name: Stantec, sector: Engineering consulting, type: directemployers, base: "https://stantec.jobs"}
+  - {name: AECOM (SmartRecruiters), sector: Engineering consulting, type: smartrecruiters, company_id: AECOM2}
+  - {name: Bosch, sector: Automotive & industrial, type: smartrecruiters, company_id: BoschGroup}
+
+  # ---------- The agent works out the careers system from these pages ----------
+  - {name: MDA Space, sector: Space, careers_url: "https://mda.space/careers"}
+  - {name: Husky Technologies, sector: Industrial machinery, careers_url: "https://www.husky.co/en/careers/portal/"}
+  - {name: Linamar, sector: Automotive, careers_url: "https://www.linamar.com/linamar-careers/"}
+  - {name: Martinrea International, sector: Automotive, careers_url: "https://www.martinrea.com/culture/careers/"}
+  - {name: Magellan Aerospace, sector: Aerospace, careers_url: "https://careers.magellan.aero/"}
+  - {name: De Havilland Aircraft of Canada, sector: Aerospace, careers_url: "https://dehavilland.com/en/careers"}
+  - {name: Héroux-Devtek, sector: Aerospace, careers_url: "https://www.herouxdevtek.com/en/careers"}
+  - {name: ATS Corporation, sector: Industrial automation, careers_url: "https://atsautomation.com/careers/"}
+  - {name: Mold-Masters, sector: Industrial machinery, careers_url: "https://www.moldmasters.com/careers"}
+  - {name: Medtronic Canada, sector: Medical devices, careers_url: "https://jobs.medtronic.com/"}
+  - {name: Stryker, sector: Medical devices, careers_url: "https://careers.stryker.com/"}
+  - {name: Johnson Controls, sector: Building systems, careers_url: "https://jobs.johnsoncontrols.com/"}
+  - {name: Siemens Energy, sector: Energy equipment, careers_url: "https://jobs.siemens-energy.com/"}
+  - {name: Enbridge, sector: Energy, careers_url: "https://careers.enbridge.com/"}
+  - {name: Cameco, sector: Nuclear & energy, careers_url: "https://www.cameco.com/careers"}
+  - {name: Canadian Nuclear Laboratories, sector: Nuclear & energy, careers_url: "https://www.cnl.ca/careers/"}
+  - {name: Alectra Utilities, sector: Utilities, careers_url: "https://www.alectrautilities.com/careers"}
+  - {name: Toronto Hydro, sector: Utilities, careers_url: "https://www.torontohydro.com/careers"}
+  - {name: Metrolinx, sector: Transportation, careers_url: "https://www.metrolinx.com/en/about-us/careers"}
+  - {name: Ford Motor Company of Canada, sector: Automotive, careers_url: "https://www.ford.ca/careers/"}
+  - {name: AMD (Markham), sector: Semiconductors & hardware, careers_url: "https://careers.amd.com/careers-home/jobs"}
+  - {name: Cooper-Standard, sector: Automotive, careers_url: "https://www.cooperstandard.com/careers/"}
+  - {name: Nexteer Automotive, sector: Automotive, careers_url: "https://www.nexteer.com/careers/"}
+  - {name: Dana Incorporated, sector: Automotive, careers_url: "https://www.dana.com/careers/"}
+  - {name: Eaton, sector: Industrial & electrical, careers_url: "https://www.eaton.com/us/en-us/company/careers.html"}
+  - {name: ABB, sector: Industrial automation, careers_url: "https://careers.abb/global/en"}
+  - {name: Rockwell Automation (OTTO/Clearpath), sector: Robotics & automation, careers_url: "https://www.rockwellautomation.com/en-us/company/careers.html"}
+  - {name: Schneider Electric, sector: Industrial & electrical, careers_url: "https://www.se.com/ww/en/about-us/careers/"}
+  - {name: Emerson, sector: Industrial automation, careers_url: "https://www.emerson.com/en-us/careers"}
+  - {name: Thermo Fisher Scientific, sector: Scientific instruments, careers_url: "https://jobs.thermofisher.com/"}
+  - {name: Maple Leaf Foods, sector: Food manufacturing, careers_url: "https://careers.mapleleaffoods.com/"}
+  - {name: Mondelez International, sector: Food manufacturing, careers_url: "https://www.mondelezinternational.com/careers/"}
+  - {name: L3Harris Canada, sector: Aerospace & defence, careers_url: "https://careers.l3harris.com/"}
+  - {name: General Dynamics Land Systems–Canada, sector: Defence, careers_url: "https://www.gdlscanada.com/careers"}
+  - {name: Lockheed Martin Canada, sector: Aerospace & defence, careers_url: "https://www.lockheedmartin.com/en-ca/careers.html"}
+  - {name: Kepler Communications, sector: Space, careers_url: "https://kepler.space/careers"}
+  - {name: ecobee, sector: Consumer hardware, careers_url: "https://www.ecobee.com/en-ca/careers/"}
+  - {name: Miovision, sector: Transportation tech, careers_url: "https://miovision.com/careers/"}
+  - {name: Sanctuary AI, sector: Robotics, careers_url: "https://sanctuary.ai/careers/"}
+
+  # ---------- Sites the agent can't read automatically: listed on the site to check by hand ----------
+  - {name: Toyota Motor Manufacturing Canada (TMMC), sector: Automotive, manual: true, manual_url: "https://tmmc.ca/en/coop-jobs/"}
+  - {name: Safran Landing Systems (Ajax), sector: Aerospace, manual: true, manual_url: "https://www.safran-group.com/jobs?countries=canada"}
+  - {name: TMU Co-op portal (student login), sector: School, manual: true, manual_url: "https://www.torontomu.ca/"}
+  - {name: LinkedIn Jobs (set up a saved-search alert), sector: Job board, manual: true, manual_url: "https://www.linkedin.com/jobs/search/?keywords=mechanical%20engineering%20co-op&location=Ontario%2C%20Canada"}
+  - {name: Indeed (set up a job alert), sector: Job board, manual: true, manual_url: "https://ca.indeed.com/jobs?q=mechanical+engineering+co-op+16+months&l=Ontario"}
+
+# ---------- Added by the weekly Claude discovery task ----------
+discovered: []
