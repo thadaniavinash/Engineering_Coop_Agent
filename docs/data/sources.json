@@ -1,1 +1,796 @@
-{"sources": [], "manual": []}
+{
+ "sources": [
+  {
+   "name": "ABB",
+   "type": "phenom",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 30.8
+  },
+  {
+   "name": "AECOM",
+   "type": "directemployers",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 3.5
+  },
+  {
+   "name": "ATS Corporation",
+   "type": "successfactors",
+   "status": "ok",
+   "found": 1,
+   "kept": 0,
+   "message": "",
+   "seconds": 9.9
+  },
+  {
+   "name": "AtkinsRéalis",
+   "type": "workday",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 20.8
+  },
+  {
+   "name": "BWXT",
+   "type": "successfactors",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 8.5
+  },
+  {
+   "name": "Bombardier",
+   "type": "successfactors",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 6.0
+  },
+  {
+   "name": "Bruce Power",
+   "type": "workday",
+   "status": "ok",
+   "found": 1,
+   "kept": 1,
+   "message": "",
+   "seconds": 6.8
+  },
+  {
+   "name": "CAE",
+   "type": "workday",
+   "status": "ok",
+   "found": 2,
+   "kept": 2,
+   "message": "",
+   "seconds": 11.0
+  },
+  {
+   "name": "Celestica",
+   "type": "successfactors",
+   "status": "ok",
+   "found": 9,
+   "kept": 9,
+   "message": "",
+   "seconds": 18.1
+  },
+  {
+   "name": "Claude weekly discovery",
+   "type": "claude",
+   "status": "ok",
+   "found": 16,
+   "kept": 16,
+   "message": ""
+  },
+  {
+   "name": "Dana Incorporated",
+   "type": "successfactors",
+   "status": "ok",
+   "found": 1,
+   "kept": 1,
+   "message": "",
+   "seconds": 9.3
+  },
+  {
+   "name": "Enbridge",
+   "type": "workday",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 8.3
+  },
+  {
+   "name": "GE Vernova",
+   "type": "workday",
+   "status": "ok",
+   "found": 60,
+   "kept": 46,
+   "message": "",
+   "seconds": 81.7
+  },
+  {
+   "name": "General Motors Canada",
+   "type": "workday",
+   "status": "ok",
+   "found": 19,
+   "kept": 4,
+   "message": "",
+   "seconds": 31.4
+  },
+  {
+   "name": "Hatch",
+   "type": "successfactors",
+   "status": "ok",
+   "found": 27,
+   "kept": 25,
+   "message": "",
+   "seconds": 41.6
+  },
+  {
+   "name": "Honda Canada",
+   "type": "workday",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 6.1
+  },
+  {
+   "name": "Honeywell",
+   "type": "oracle",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 7.0
+  },
+  {
+   "name": "Hydro One",
+   "type": "successfactors",
+   "status": "ok",
+   "found": 23,
+   "kept": 13,
+   "message": "",
+   "seconds": 30.6
+  },
+  {
+   "name": "Job Bank Canada",
+   "type": "jobbank",
+   "status": "ok",
+   "found": 3,
+   "kept": 0,
+   "message": "",
+   "seconds": 10.1
+  },
+  {
+   "name": "Johnson Controls",
+   "type": "workday",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 22.3
+  },
+  {
+   "name": "Johnson Electric",
+   "type": "workday",
+   "status": "ok",
+   "found": 3,
+   "kept": 3,
+   "message": "",
+   "seconds": 10.9
+  },
+  {
+   "name": "Kepler Communications",
+   "type": "lever",
+   "status": "ok",
+   "found": 1,
+   "kept": 1,
+   "message": "",
+   "seconds": 2.0
+  },
+  {
+   "name": "Kinectrics",
+   "type": "successfactors",
+   "status": "ok",
+   "found": 2,
+   "kept": 1,
+   "message": "",
+   "seconds": 7.5
+  },
+  {
+   "name": "Magellan Aerospace",
+   "type": "successfactors",
+   "status": "ok",
+   "found": 1,
+   "kept": 1,
+   "message": "",
+   "seconds": 6.4
+  },
+  {
+   "name": "Magna International",
+   "type": "workday",
+   "status": "ok",
+   "found": 42,
+   "kept": 40,
+   "message": "",
+   "seconds": 54.4
+  },
+  {
+   "name": "Multimatic",
+   "type": "workday",
+   "status": "ok",
+   "found": 9,
+   "kept": 5,
+   "message": "",
+   "seconds": 16.3
+  },
+  {
+   "name": "Nexteer Automotive",
+   "type": "successfactors",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 8.4
+  },
+  {
+   "name": "Ontario Power Generation",
+   "type": "successfactors",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 5.5
+  },
+  {
+   "name": "Procter & Gamble",
+   "type": "phenom",
+   "status": "ok",
+   "found": 2,
+   "kept": 1,
+   "message": "",
+   "seconds": 32.2
+  },
+  {
+   "name": "RTX (Pratt & Whitney Canada, Collins)",
+   "type": "workday",
+   "status": "ok",
+   "found": 4,
+   "kept": 4,
+   "message": "",
+   "seconds": 28.8
+  },
+  {
+   "name": "Rockwell Automation (OTTO/Clearpath)",
+   "type": "workday",
+   "status": "ok",
+   "found": 10,
+   "kept": 5,
+   "message": "",
+   "seconds": 17.6
+  },
+  {
+   "name": "Stantec",
+   "type": "directemployers",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 3.3
+  },
+  {
+   "name": "Stellantis",
+   "type": "workday",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 7.1
+  },
+  {
+   "name": "Stryker",
+   "type": "workday",
+   "status": "ok",
+   "found": 38,
+   "kept": 32,
+   "message": "",
+   "seconds": 48.9
+  },
+  {
+   "name": "Thermo Fisher Scientific",
+   "type": "phenom",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 30.5
+  },
+  {
+   "name": "Toronto Hydro",
+   "type": "successfactors",
+   "status": "ok",
+   "found": 0,
+   "kept": 0,
+   "message": "",
+   "seconds": 5.6
+  },
+  {
+   "name": "ecobee",
+   "type": "workday",
+   "status": "ok",
+   "found": 3,
+   "kept": 0,
+   "message": "",
+   "seconds": 11.9
+  },
+  {
+   "name": "Adzuna (job aggregator)",
+   "type": "adzuna",
+   "status": "not-configured",
+   "found": 0,
+   "kept": 0,
+   "message": "add ADZUNA_APP_ID and ADZUNA_APP_KEY secrets to turn this on (free)",
+   "seconds": 0.0
+  },
+  {
+   "name": "Jooble (job aggregator)",
+   "type": "jooble",
+   "status": "not-configured",
+   "found": 0,
+   "kept": 0,
+   "message": "add a JOOBLE_API_KEY secret to turn this on (free)",
+   "seconds": 0.0
+  },
+  {
+   "name": "AECOM (SmartRecruiters)",
+   "type": "smartrecruiters",
+   "status": "blocked",
+   "found": 0,
+   "kept": 0,
+   "message": "robots.txt asks automated tools not to read /v1/companies/AECOM2/postings",
+   "seconds": 0.1
+  },
+  {
+   "name": "Bosch",
+   "type": "smartrecruiters",
+   "status": "blocked",
+   "found": 0,
+   "kept": 0,
+   "message": "robots.txt asks automated tools not to read /v1/companies/BoschGroup/postings",
+   "seconds": 0.1
+  },
+  {
+   "name": "Tesla",
+   "type": "tesla",
+   "status": "blocked",
+   "found": 0,
+   "kept": 0,
+   "message": "site refused access (HTTP 403)",
+   "seconds": 0.1
+  },
+  {
+   "name": "Mondelez International",
+   "type": "phenom",
+   "status": "error",
+   "found": 0,
+   "kept": 0,
+   "message": "HTTPError: 400 Client Error: Bad Request for url: https://www.mondelezinternational.com/global/en/search-results?keywords=co-op&location=Canada&from=0&s=1",
+   "seconds": 0.2
+  },
+  {
+   "name": "Toyota Canada",
+   "type": "workday",
+   "status": "error",
+   "found": 0,
+   "kept": 0,
+   "message": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://toyota.wd5.myworkdayjobs.com/wday/cxs/toyota/Toyota_CA/jobs",
+   "seconds": 0.4
+  },
+  {
+   "name": "Toyota Canada (co-op site)",
+   "type": "workday",
+   "status": "error",
+   "found": 0,
+   "kept": 0,
+   "message": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://toyota.wd5.myworkdayjobs.com/wday/cxs/toyota/Toyota_CA_Co-op_Site/jobs",
+   "seconds": 0.4
+  },
+  {
+   "name": "AMD (Markham)",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Alectra Utilities",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "HTTPError: 404 Client Error: Not Found for url: https://alectrautilities.com/careers"
+  },
+  {
+   "name": "Cameco",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Canadian Nuclear Laboratories",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "HTTPError: 404 Client Error: Not Found for url: https://www.cnl.ca/careers/about-cnl/work-with-us/"
+  },
+  {
+   "name": "Cooper-Standard",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "De Havilland Aircraft of Canada",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Eaton",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "ReadTimeout: HTTPSConnectionPool(host='www.eaton.com', port=443): Read timed out. (read timeout=25.0)"
+  },
+  {
+   "name": "Emerson",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Ford Motor Company of Canada",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Blocked: site refused access (HTTP 403)"
+  },
+  {
+   "name": "General Dynamics Land Systems–Canada",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Husky Technologies",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Héroux-Devtek",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "L3Harris Canada",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Linamar",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Lockheed Martin Canada",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "MDA Space",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Maple Leaf Foods",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Martinrea International",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Medtronic Canada",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "SSLError: HTTPSConnectionPool(host='jobs.medtronic.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VE"
+  },
+  {
+   "name": "Metrolinx",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Miovision",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Mold-Masters",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Sanctuary AI",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Schneider Electric",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Blocked: site refused access (HTTP 403)"
+  },
+  {
+   "name": "Siemens Energy",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  }
+ ],
+ "manual": [
+  {
+   "name": "Tesla",
+   "url": "https://www.tesla.com/en_CA/careers/search/?type=intern&site=CA",
+   "sector": "Automotive",
+   "why": "Blocks automated tools"
+  },
+  {
+   "name": "MDA Space",
+   "url": "https://mda.space/careers",
+   "sector": "Space",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Husky Technologies",
+   "url": "https://www.husky.co/en/careers/portal/",
+   "sector": "Industrial machinery",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Linamar",
+   "url": "https://www.linamar.com/linamar-careers/",
+   "sector": "Automotive",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Martinrea International",
+   "url": "https://www.martinrea.com/culture/careers/",
+   "sector": "Automotive",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "De Havilland Aircraft of Canada",
+   "url": "https://dehavilland.com/en/careers",
+   "sector": "Aerospace",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Héroux-Devtek",
+   "url": "https://www.herouxdevtek.com/en/careers",
+   "sector": "Aerospace",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Mold-Masters",
+   "url": "https://www.moldmasters.com/careers",
+   "sector": "Industrial machinery",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Medtronic Canada",
+   "url": "https://jobs.medtronic.com/",
+   "sector": "Medical devices",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Siemens Energy",
+   "url": "https://jobs.siemens-energy.com/",
+   "sector": "Energy equipment",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Cameco",
+   "url": "https://www.cameco.com/careers",
+   "sector": "Nuclear & energy",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Canadian Nuclear Laboratories",
+   "url": "https://www.cnl.ca/careers/",
+   "sector": "Nuclear & energy",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Alectra Utilities",
+   "url": "https://www.alectrautilities.com/careers",
+   "sector": "Utilities",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Metrolinx",
+   "url": "https://www.metrolinx.com/en/about-us/careers",
+   "sector": "Transportation",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Ford Motor Company of Canada",
+   "url": "https://www.ford.ca/careers/",
+   "sector": "Automotive",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "AMD (Markham)",
+   "url": "https://careers.amd.com/careers-home/jobs",
+   "sector": "Semiconductors & hardware",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Cooper-Standard",
+   "url": "https://www.cooperstandard.com/careers/",
+   "sector": "Automotive",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Eaton",
+   "url": "https://www.eaton.com/us/en-us/company/careers.html",
+   "sector": "Industrial & electrical",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Schneider Electric",
+   "url": "https://www.se.com/ww/en/about-us/careers/",
+   "sector": "Industrial & electrical",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Emerson",
+   "url": "https://www.emerson.com/en-us/careers",
+   "sector": "Industrial automation",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Maple Leaf Foods",
+   "url": "https://careers.mapleleaffoods.com/",
+   "sector": "Food manufacturing",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "L3Harris Canada",
+   "url": "https://careers.l3harris.com/",
+   "sector": "Aerospace & defence",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "General Dynamics Land Systems–Canada",
+   "url": "https://www.gdlscanada.com/careers",
+   "sector": "Defence",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Lockheed Martin Canada",
+   "url": "https://www.lockheedmartin.com/en-ca/careers.html",
+   "sector": "Aerospace & defence",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Miovision",
+   "url": "https://miovision.com/careers/",
+   "sector": "Transportation tech",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Sanctuary AI",
+   "url": "https://sanctuary.ai/careers/",
+   "sector": "Robotics",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Toyota Motor Manufacturing Canada (TMMC)",
+   "url": "https://tmmc.ca/en/coop-jobs/",
+   "sector": "Automotive",
+   "why": "Can't be read automatically"
+  },
+  {
+   "name": "Safran Landing Systems (Ajax)",
+   "url": "https://www.safran-group.com/jobs?countries=canada",
+   "sector": "Aerospace",
+   "why": "Can't be read automatically"
+  },
+  {
+   "name": "TMU Co-op portal (student login)",
+   "url": "https://www.torontomu.ca/",
+   "sector": "School",
+   "why": "Can't be read automatically"
+  },
+  {
+   "name": "LinkedIn Jobs (set up a saved-search alert)",
+   "url": "https://www.linkedin.com/jobs/search/?keywords=mechanical%20engineering%20co-op&location=Ontario%2C%20Canada",
+   "sector": "Job board",
+   "why": "Can't be read automatically"
+  },
+  {
+   "name": "Indeed (set up a job alert)",
+   "url": "https://ca.indeed.com/jobs?q=mechanical+engineering+co-op+16+months&l=Ontario",
+   "sector": "Job board",
+   "why": "Can't be read automatically"
+  }
+ ]
+}

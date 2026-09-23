@@ -1,0 +1,219 @@
+{
+ "MDA Space": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Husky Technologies": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Linamar": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Martinrea International": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Magellan Aerospace": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "successfactors",
+   "base": "https://careers.magellan.aero"
+  }
+ },
+ "De Havilland Aircraft of Canada": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Héroux-Devtek": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "ATS Corporation": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "successfactors",
+   "base": "https://jobs.atsautomation.com"
+  }
+ },
+ "Mold-Masters": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Medtronic Canada": {
+  "checked": "2026-09-23",
+  "found": null,
+  "error": "SSLError: HTTPSConnectionPool(host='jobs.medtronic.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VE"
+ },
+ "Stryker": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "workday",
+   "host": "stryker.wd1.myworkdayjobs.com",
+   "tenant": "stryker",
+   "site": "StrykerCareers"
+  }
+ },
+ "Johnson Controls": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "workday",
+   "host": "jci.wd5.myworkdayjobs.com",
+   "tenant": "jci",
+   "site": "JCI"
+  }
+ },
+ "Siemens Energy": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Enbridge": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "workday",
+   "host": "enbridge.wd3.myworkdayjobs.com",
+   "tenant": "enbridge",
+   "site": "enbridge_careers"
+  }
+ },
+ "Cameco": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Canadian Nuclear Laboratories": {
+  "checked": "2026-09-23",
+  "found": null,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://www.cnl.ca/careers/about-cnl/work-with-us/"
+ },
+ "Alectra Utilities": {
+  "checked": "2026-09-23",
+  "found": null,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://alectrautilities.com/careers"
+ },
+ "Toronto Hydro": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "successfactors",
+   "base": "https://jobs.torontohydro.com"
+  }
+ },
+ "Metrolinx": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Ford Motor Company of Canada": {
+  "checked": "2026-09-23",
+  "found": null,
+  "error": "Blocked: site refused access (HTTP 403)"
+ },
+ "AMD (Markham)": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Cooper-Standard": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Nexteer Automotive": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "successfactors",
+   "base": "https://jobs.nexteer.com"
+  }
+ },
+ "Dana Incorporated": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "successfactors",
+   "base": "https://jobs.dana.com:443"
+  }
+ },
+ "Eaton": {
+  "checked": "2026-09-23",
+  "found": null,
+  "error": "ReadTimeout: HTTPSConnectionPool(host='www.eaton.com', port=443): Read timed out. (read timeout=25.0)"
+ },
+ "ABB": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "phenom",
+   "base": "https://careers.abb",
+   "locale": "global/en"
+  }
+ },
+ "Rockwell Automation (OTTO/Clearpath)": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "workday",
+   "host": "rockwellautomation.wd1.myworkdayjobs.com",
+   "tenant": "rockwellautomation",
+   "site": "External_Rockwell_Automation"
+  }
+ },
+ "Schneider Electric": {
+  "checked": "2026-09-23",
+  "found": null,
+  "error": "Blocked: site refused access (HTTP 403)"
+ },
+ "Emerson": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Thermo Fisher Scientific": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "phenom",
+   "base": "https://jobs.thermofisher.com",
+   "locale": "global/en"
+  }
+ },
+ "Maple Leaf Foods": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Mondelez International": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "phenom",
+   "base": "https://www.mondelezinternational.com",
+   "locale": "global/en"
+  }
+ },
+ "L3Harris Canada": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "General Dynamics Land Systems–Canada": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Lockheed Martin Canada": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Kepler Communications": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "lever",
+   "company_id": "kepler"
+  }
+ },
+ "ecobee": {
+  "checked": "2026-09-23",
+  "found": {
+   "type": "workday",
+   "host": "generac.wd5.myworkdayjobs.com",
+   "tenant": "generac",
+   "site": "External"
+  }
+ },
+ "Miovision": {
+  "checked": "2026-09-23",
+  "found": null
+ },
+ "Sanctuary AI": {
+  "checked": "2026-09-23",
+  "found": null
+ }
+}
