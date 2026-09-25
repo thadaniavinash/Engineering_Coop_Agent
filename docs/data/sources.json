@@ -7,7 +7,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 30.0
+   "seconds": 30.4
   },
   {
    "name": "AECOM",
@@ -16,7 +16,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 3.2
+   "seconds": 3.3
   },
   {
    "name": "ATS Corporation",
@@ -25,7 +25,7 @@
    "found": 1,
    "kept": 0,
    "message": "",
-   "seconds": 10.4
+   "seconds": 10.7
   },
   {
    "name": "AtkinsRéalis",
@@ -34,7 +34,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 15.8
+   "seconds": 15.6
   },
   {
    "name": "BWXT",
@@ -43,7 +43,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 8.6
+   "seconds": 9.3
   },
   {
    "name": "Bombardier",
@@ -52,7 +52,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 6.2
+   "seconds": 6.1
   },
   {
    "name": "Bruce Power",
@@ -61,7 +61,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.7
+   "seconds": 5.8
   },
   {
    "name": "CAE",
@@ -76,10 +76,10 @@
    "name": "Celestica",
    "type": "successfactors",
    "status": "ok",
-   "found": 9,
-   "kept": 9,
+   "found": 11,
+   "kept": 11,
    "message": "",
-   "seconds": 18.4
+   "seconds": 22.9
   },
   {
    "name": "Claude weekly discovery",
@@ -96,7 +96,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 9.5
+   "seconds": 9.8
   },
   {
    "name": "Enbridge",
@@ -105,7 +105,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 8.5
+   "seconds": 8.2
   },
   {
    "name": "GE Vernova",
@@ -114,16 +114,16 @@
    "found": 60,
    "kept": 46,
    "message": "",
-   "seconds": 81.0
+   "seconds": 84.4
   },
   {
    "name": "General Motors Canada",
    "type": "workday",
    "status": "ok",
-   "found": 18,
+   "found": 19,
    "kept": 4,
    "message": "",
-   "seconds": 30.7
+   "seconds": 30.9
   },
   {
    "name": "Hatch",
@@ -132,7 +132,7 @@
    "found": 27,
    "kept": 25,
    "message": "",
-   "seconds": 41.5
+   "seconds": 41.8
   },
   {
    "name": "Honda Canada",
@@ -150,7 +150,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 6.9
+   "seconds": 6.6
   },
   {
    "name": "Hydro One",
@@ -159,7 +159,7 @@
    "found": 23,
    "kept": 13,
    "message": "",
-   "seconds": 30.4
+   "seconds": 30.8
   },
   {
    "name": "Job Bank Canada",
@@ -168,16 +168,16 @@
    "found": 3,
    "kept": 0,
    "message": "",
-   "seconds": 9.7
+   "seconds": 9.3
   },
   {
    "name": "Johnson Controls",
    "type": "workday",
    "status": "ok",
-   "found": 0,
-   "kept": 0,
+   "found": 1,
+   "kept": 1,
    "message": "",
-   "seconds": 26.5
+   "seconds": 22.2
   },
   {
    "name": "Johnson Electric",
@@ -186,7 +186,7 @@
    "found": 3,
    "kept": 3,
    "message": "",
-   "seconds": 11.0
+   "seconds": 11.1
   },
   {
    "name": "Kepler Communications",
@@ -195,7 +195,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 5.1
+   "seconds": 1.1
   },
   {
    "name": "Kinectrics",
@@ -204,7 +204,7 @@
    "found": 3,
    "kept": 2,
    "message": "",
-   "seconds": 8.4
+   "seconds": 8.6
   },
   {
    "name": "Magellan Aerospace",
@@ -213,16 +213,16 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 6.5
+   "seconds": 6.9
   },
   {
    "name": "Magna International",
    "type": "workday",
    "status": "ok",
-   "found": 43,
-   "kept": 41,
+   "found": 45,
+   "kept": 43,
    "message": "",
-   "seconds": 55.3
+   "seconds": 58.0
   },
   {
    "name": "Multimatic",
@@ -240,7 +240,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.4
+   "seconds": 5.7
   },
   {
    "name": "Ontario Power Generation",
@@ -249,16 +249,16 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.5
+   "seconds": 5.6
   },
   {
    "name": "Procter & Gamble",
    "type": "phenom",
    "status": "ok",
-   "found": 2,
-   "kept": 1,
+   "found": 0,
+   "kept": 0,
    "message": "",
-   "seconds": 32.6
+   "seconds": 31.8
   },
   {
    "name": "RTX (Pratt & Whitney Canada, Collins)",
@@ -267,13 +267,13 @@
    "found": 6,
    "kept": 5,
    "message": "",
-   "seconds": 30.1
+   "seconds": 31.6
   },
   {
    "name": "Rockwell Automation (OTTO/Clearpath)",
    "type": "workday",
    "status": "ok",
-   "found": 8,
+   "found": 9,
    "kept": 5,
    "message": "",
    "seconds": 16.8
@@ -285,7 +285,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 3.3
+   "seconds": 3.5
   },
   {
    "name": "Stellantis",
@@ -294,7 +294,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 6.8
+   "seconds": 6.9
   },
   {
    "name": "Stryker",
@@ -303,7 +303,7 @@
    "found": 37,
    "kept": 32,
    "message": "",
-   "seconds": 47.4
+   "seconds": 55.3
   },
   {
    "name": "Thermo Fisher Scientific",
@@ -312,7 +312,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 33.9
+   "seconds": 31.1
   },
   {
    "name": "Toronto Hydro",
@@ -321,7 +321,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.8
+   "seconds": 5.7
   },
   {
    "name": "ecobee",
@@ -330,7 +330,7 @@
    "found": 3,
    "kept": 0,
    "message": "",
-   "seconds": 11.7
+   "seconds": 11.9
   },
   {
    "name": "Adzuna (job aggregator)",
@@ -357,7 +357,7 @@
    "found": 0,
    "kept": 0,
    "message": "robots.txt asks automated tools not to read /v1/companies/AECOM2/postings",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Bosch",
@@ -375,7 +375,7 @@
    "found": 0,
    "kept": 0,
    "message": "site refused access (HTTP 403)",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Mondelez International",
@@ -384,7 +384,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: 400 Client Error: Bad Request for url: https://www.mondelezinternational.com/global/en/search-results?keywords=co-op&location=Canada&from=0&s=1",
-   "seconds": 0.2
+   "seconds": 0.4
   },
   {
    "name": "Toyota Canada",
@@ -393,7 +393,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://toyota.wd5.myworkdayjobs.com/wday/cxs/toyota/Toyota_CA/jobs",
-   "seconds": 0.3
+   "seconds": 0.6
   },
   {
    "name": "Toyota Canada (co-op site)",

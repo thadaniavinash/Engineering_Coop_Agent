@@ -1,18 +1,18 @@
 {
  "MDA Space": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Husky Technologies": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Linamar": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Martinrea International": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Magellan Aerospace": {
@@ -23,11 +23,11 @@
   }
  },
  "De Havilland Aircraft of Canada": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Héroux-Devtek": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "ATS Corporation": {
@@ -38,11 +38,11 @@
   }
  },
  "Mold-Masters": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Medtronic Canada": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null,
   "error": "SSLError: HTTPSConnectionPool(host='jobs.medtronic.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VE"
  },
@@ -65,7 +65,7 @@
   }
  },
  "Siemens Energy": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Enbridge": {
@@ -78,16 +78,16 @@
   }
  },
  "Cameco": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Canadian Nuclear Laboratories": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null,
   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.cnl.ca/careers/about-cnl/work-with-us/"
  },
  "Alectra Utilities": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null,
   "error": "HTTPError: 404 Client Error: Not Found for url: https://alectrautilities.com/careers"
  },
@@ -99,20 +99,20 @@
   }
  },
  "Metrolinx": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Ford Motor Company of Canada": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null,
   "error": "Blocked: site refused access (HTTP 403)"
  },
  "AMD (Markham)": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Cooper-Standard": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Nexteer Automotive": {
@@ -130,7 +130,7 @@
   }
  },
  "Eaton": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null,
   "error": "ReadTimeout: HTTPSConnectionPool(host='www.eaton.com', port=443): Read timed out. (read timeout=25.0)"
  },
@@ -152,12 +152,12 @@
   }
  },
  "Schneider Electric": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null,
   "error": "Blocked: site refused access (HTTP 403)"
  },
  "Emerson": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Thermo Fisher Scientific": {
@@ -169,7 +169,7 @@
   }
  },
  "Maple Leaf Foods": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Mondelez International": {
@@ -181,15 +181,15 @@
   }
  },
  "L3Harris Canada": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "General Dynamics Land Systems–Canada": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Lockheed Martin Canada": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Kepler Communications": {
@@ -209,11 +209,11 @@
   }
  },
  "Miovision": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  },
  "Sanctuary AI": {
-  "checked": "2026-09-24",
+  "checked": "2026-09-25",
   "found": null
  }
 }
