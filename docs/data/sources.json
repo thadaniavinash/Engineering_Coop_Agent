@@ -7,7 +7,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 30.2
+   "seconds": 30.5
   },
   {
    "name": "AECOM",
@@ -16,7 +16,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 3.2
+   "seconds": 3.7
   },
   {
    "name": "ATS Corporation",
@@ -25,7 +25,7 @@
    "found": 1,
    "kept": 0,
    "message": "",
-   "seconds": 9.1
+   "seconds": 9.5
   },
   {
    "name": "AtkinsRéalis",
@@ -34,7 +34,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 15.5
+   "seconds": 15.6
   },
   {
    "name": "BWXT",
@@ -43,7 +43,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 8.4
+   "seconds": 8.8
   },
   {
    "name": "Bombardier",
@@ -52,7 +52,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 6.0
+   "seconds": 6.4
   },
   {
    "name": "Bruce Power",
@@ -70,7 +70,7 @@
    "found": 2,
    "kept": 2,
    "message": "",
-   "seconds": 10.7
+   "seconds": 11.2
   },
   {
    "name": "Celestica",
@@ -79,7 +79,7 @@
    "found": 14,
    "kept": 14,
    "message": "",
-   "seconds": 26.9
+   "seconds": 24.2
   },
   {
    "name": "Claude weekly discovery",
@@ -96,7 +96,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 9.5
+   "seconds": 9.8
   },
   {
    "name": "Enbridge",
@@ -105,7 +105,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 8.0
+   "seconds": 8.3
   },
   {
    "name": "GE Vernova",
@@ -114,7 +114,7 @@
    "found": 60,
    "kept": 45,
    "message": "",
-   "seconds": 80.4
+   "seconds": 80.5
   },
   {
    "name": "General Motors Canada",
@@ -123,7 +123,7 @@
    "found": 13,
    "kept": 4,
    "message": "",
-   "seconds": 24.1
+   "seconds": 25.4
   },
   {
    "name": "Hatch",
@@ -132,7 +132,7 @@
    "found": 13,
    "kept": 11,
    "message": "",
-   "seconds": 29.4
+   "seconds": 27.8
   },
   {
    "name": "Honda Canada",
@@ -141,7 +141,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 6.2
+   "seconds": 6.3
   },
   {
    "name": "Honeywell",
@@ -150,7 +150,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 7.5
+   "seconds": 7.2
   },
   {
    "name": "Hydro One",
@@ -159,16 +159,16 @@
    "found": 24,
    "kept": 13,
    "message": "",
-   "seconds": 31.4
+   "seconds": 31.8
   },
   {
    "name": "Job Bank Canada",
    "type": "jobbank",
    "status": "ok",
-   "found": 1,
-   "kept": 0,
+   "found": 2,
+   "kept": 1,
    "message": "",
-   "seconds": 8.2
+   "seconds": 9.4
   },
   {
    "name": "Johnson Controls",
@@ -177,7 +177,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 20.5
+   "seconds": 20.4
   },
   {
    "name": "Johnson Electric",
@@ -186,7 +186,7 @@
    "found": 4,
    "kept": 4,
    "message": "",
-   "seconds": 11.7
+   "seconds": 12.1
   },
   {
    "name": "Kepler Communications",
@@ -195,7 +195,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 1.0
+   "seconds": 0.3
   },
   {
    "name": "Kinectrics",
@@ -204,7 +204,7 @@
    "found": 4,
    "kept": 4,
    "message": "",
-   "seconds": 9.3
+   "seconds": 9.7
   },
   {
    "name": "Magellan Aerospace",
@@ -213,7 +213,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 6.4
+   "seconds": 6.7
   },
   {
    "name": "Magna International",
@@ -222,7 +222,7 @@
    "found": 43,
    "kept": 41,
    "message": "",
-   "seconds": 56.4
+   "seconds": 58.1
   },
   {
    "name": "Multimatic",
@@ -231,7 +231,7 @@
    "found": 10,
    "kept": 6,
    "message": "",
-   "seconds": 17.4
+   "seconds": 17.6
   },
   {
    "name": "Nexteer Automotive",
@@ -240,7 +240,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.5
+   "seconds": 5.8
   },
   {
    "name": "Ontario Power Generation",
@@ -249,7 +249,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.5
+   "seconds": 5.8
   },
   {
    "name": "Procter & Gamble",
@@ -258,7 +258,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 30.9
+   "seconds": 30.8
   },
   {
    "name": "RTX (Pratt & Whitney Canada, Collins)",
@@ -276,7 +276,7 @@
    "found": 7,
    "kept": 4,
    "message": "",
-   "seconds": 14.6
+   "seconds": 14.9
   },
   {
    "name": "Stantec",
@@ -285,7 +285,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 3.2
+   "seconds": 3.5
   },
   {
    "name": "Stellantis",
@@ -294,7 +294,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 6.8
+   "seconds": 7.1
   },
   {
    "name": "Stryker",
@@ -303,7 +303,7 @@
    "found": 36,
    "kept": 33,
    "message": "",
-   "seconds": 46.6
+   "seconds": 47.8
   },
   {
    "name": "Thermo Fisher Scientific",
@@ -312,7 +312,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 31.4
+   "seconds": 29.7
   },
   {
    "name": "Toronto Hydro",
@@ -330,7 +330,7 @@
    "found": 3,
    "kept": 0,
    "message": "",
-   "seconds": 11.5
+   "seconds": 11.6
   },
   {
    "name": "Adzuna (job aggregator)",
@@ -357,7 +357,7 @@
    "found": 0,
    "kept": 0,
    "message": "robots.txt asks automated tools not to read /v1/companies/AECOM2/postings",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Bosch",
@@ -375,7 +375,7 @@
    "found": 0,
    "kept": 0,
    "message": "site refused access (HTTP 403)",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "Mondelez International",
@@ -393,7 +393,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://toyota.wd5.myworkdayjobs.com/wday/cxs/toyota/Toyota_CA/jobs",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Toyota Canada (co-op site)",
@@ -402,7 +402,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://toyota.wd5.myworkdayjobs.com/wday/cxs/toyota/Toyota_CA_Co-op_Site/jobs",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "AMD (Markham)",
