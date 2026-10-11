@@ -16,7 +16,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 3.3
+   "seconds": 3.7
   },
   {
    "name": "ATS Corporation",
@@ -25,7 +25,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 9.1
+   "seconds": 8.9
   },
   {
    "name": "AtkinsRéalis",
@@ -34,7 +34,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 15.4
+   "seconds": 16.7
   },
   {
    "name": "BWXT",
@@ -43,7 +43,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 8.7
+   "seconds": 8.8
   },
   {
    "name": "Bombardier",
@@ -52,7 +52,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 6.5
+   "seconds": 6.3
   },
   {
    "name": "Bruce Power",
@@ -61,7 +61,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.8
+   "seconds": 6.1
   },
   {
    "name": "CAE",
@@ -96,7 +96,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 9.6
+   "seconds": 9.5
   },
   {
    "name": "Enbridge",
@@ -123,7 +123,7 @@
    "found": 13,
    "kept": 3,
    "message": "",
-   "seconds": 24.3
+   "seconds": 24.7
   },
   {
    "name": "Hatch",
@@ -141,7 +141,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 6.0
+   "seconds": 6.6
   },
   {
    "name": "Honeywell",
@@ -150,7 +150,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 7.0
+   "seconds": 6.9
   },
   {
    "name": "Hydro One",
@@ -159,7 +159,7 @@
    "found": 24,
    "kept": 13,
    "message": "",
-   "seconds": 31.5
+   "seconds": 31.6
   },
   {
    "name": "Job Bank Canada",
@@ -168,7 +168,7 @@
    "found": 4,
    "kept": 2,
    "message": "",
-   "seconds": 10.7
+   "seconds": 9.3
   },
   {
    "name": "Johnson Controls",
@@ -177,7 +177,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 21.7
+   "seconds": 21.6
   },
   {
    "name": "Johnson Electric",
@@ -186,7 +186,7 @@
    "found": 3,
    "kept": 3,
    "message": "",
-   "seconds": 11.8
+   "seconds": 12.0
   },
   {
    "name": "Kepler Communications",
@@ -213,7 +213,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 6.5
+   "seconds": 6.8
   },
   {
    "name": "Magna International",
@@ -222,7 +222,7 @@
    "found": 43,
    "kept": 41,
    "message": "",
-   "seconds": 56.6
+   "seconds": 56.3
   },
   {
    "name": "Multimatic",
@@ -231,7 +231,7 @@
    "found": 11,
    "kept": 7,
    "message": "",
-   "seconds": 18.5
+   "seconds": 18.4
   },
   {
    "name": "Nexteer Automotive",
@@ -240,7 +240,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.7
+   "seconds": 5.5
   },
   {
    "name": "Ontario Power Generation",
@@ -258,7 +258,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 30.8
+   "seconds": 30.6
   },
   {
    "name": "RTX (Pratt & Whitney Canada, Collins)",
@@ -267,7 +267,7 @@
    "found": 2,
    "kept": 2,
    "message": "",
-   "seconds": 26.5
+   "seconds": 27.5
   },
   {
    "name": "Rockwell Automation (OTTO/Clearpath)",
@@ -294,7 +294,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 6.8
+   "seconds": 7.0
   },
   {
    "name": "Stryker",
@@ -303,7 +303,7 @@
    "found": 32,
    "kept": 29,
    "message": "",
-   "seconds": 43.3
+   "seconds": 42.7
   },
   {
    "name": "Thermo Fisher Scientific",
@@ -312,7 +312,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 29.9
+   "seconds": 29.6
   },
   {
    "name": "Toronto Hydro",
@@ -321,7 +321,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.7
+   "seconds": 5.6
   },
   {
    "name": "ecobee",
@@ -330,7 +330,7 @@
    "found": 2,
    "kept": 0,
    "message": "",
-   "seconds": 10.9
+   "seconds": 10.6
   },
   {
    "name": "Adzuna (job aggregator)",
@@ -375,7 +375,7 @@
    "found": 0,
    "kept": 0,
    "message": "site refused access (HTTP 403)",
-   "seconds": 0.1
+   "seconds": 0.3
   },
   {
    "name": "Mondelez International",
@@ -384,7 +384,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: 400 Client Error: Bad Request for url: https://www.mondelezinternational.com/global/en/search-results?keywords=co-op&location=Canada&from=0&s=1",
-   "seconds": 0.6
+   "seconds": 0.3
   },
   {
    "name": "Toyota Canada",
