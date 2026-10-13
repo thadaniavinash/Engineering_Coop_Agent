@@ -1,7 +1,7 @@
 {
- "last_run": "2026-10-12T16:09-04:00",
- "run_label": "Mon Oct 12, 2026 · 4:09 PM",
- "next_run": "2026-10-13T07:00-04:00",
+ "last_run": "2026-10-13T14:00-04:00",
+ "run_label": "Tue Oct 13, 2026 · 2:00 PM",
+ "next_run": "2026-10-14T07:00-04:00",
  "home": {
   "name": "Newmarket",
   "lat": 44.0592,
@@ -30,7 +30,7 @@
   "total": 70
  },
  "skipped": {
-  "no keyword match": 35,
+  "no keyword match": 25,
   "outside Ontario": 15
  },
  "first_run": false
