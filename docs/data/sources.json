@@ -7,7 +7,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 30.2
+   "seconds": 30.5
   },
   {
    "name": "AECOM",
@@ -16,7 +16,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 3.8
+   "seconds": 3.4
   },
   {
    "name": "ATS Corporation",
@@ -25,7 +25,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 9.7
+   "seconds": 9.5
   },
   {
    "name": "AtkinsRéalis",
@@ -34,7 +34,7 @@
    "found": 4,
    "kept": 0,
    "message": "",
-   "seconds": 19.6
+   "seconds": 19.5
   },
   {
    "name": "BWXT",
@@ -43,7 +43,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 10.1
+   "seconds": 12.3
   },
   {
    "name": "Bombardier",
@@ -52,7 +52,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 6.4
+   "seconds": 6.6
   },
   {
    "name": "Bruce Power",
@@ -61,7 +61,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 7.2
+   "seconds": 7.0
   },
   {
    "name": "CAE",
@@ -70,7 +70,7 @@
    "found": 4,
    "kept": 4,
    "message": "",
-   "seconds": 13.0
+   "seconds": 13.4
   },
   {
    "name": "Celestica",
@@ -79,14 +79,14 @@
    "found": 25,
    "kept": 25,
    "message": "",
-   "seconds": 35.4
+   "seconds": 35.3
   },
   {
    "name": "Claude weekly discovery",
    "type": "claude",
    "status": "ok",
    "found": 16,
-   "kept": 16,
+   "kept": 0,
    "message": ""
   },
   {
@@ -96,7 +96,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 9.1
+   "seconds": 8.7
   },
   {
    "name": "Enbridge",
@@ -105,7 +105,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 8.2
+   "seconds": 8.3
   },
   {
    "name": "GE Vernova",
@@ -114,7 +114,7 @@
    "found": 60,
    "kept": 48,
    "message": "",
-   "seconds": 82.4
+   "seconds": 81.5
   },
   {
    "name": "General Motors Canada",
@@ -123,7 +123,7 @@
    "found": 12,
    "kept": 2,
    "message": "",
-   "seconds": 23.4
+   "seconds": 23.5
   },
   {
    "name": "Hatch",
@@ -132,7 +132,7 @@
    "found": 3,
    "kept": 3,
    "message": "",
-   "seconds": 17.9
+   "seconds": 18.0
   },
   {
    "name": "Honda Canada",
@@ -141,7 +141,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 6.1
+   "seconds": 6.4
   },
   {
    "name": "Honeywell",
@@ -150,7 +150,7 @@
    "found": 2,
    "kept": 2,
    "message": "",
-   "seconds": 9.0
+   "seconds": 8.8
   },
   {
    "name": "Hydro One",
@@ -165,10 +165,10 @@
    "name": "Job Bank Canada",
    "type": "jobbank",
    "status": "ok",
-   "found": 8,
+   "found": 6,
    "kept": 5,
    "message": "",
-   "seconds": 15.4
+   "seconds": 13.2
   },
   {
    "name": "Johnson Controls",
@@ -177,7 +177,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 21.5
+   "seconds": 21.6
   },
   {
    "name": "Johnson Electric",
@@ -186,7 +186,7 @@
    "found": 4,
    "kept": 4,
    "message": "",
-   "seconds": 13.0
+   "seconds": 13.2
   },
   {
    "name": "Kepler Communications",
@@ -195,7 +195,7 @@
    "found": 2,
    "kept": 2,
    "message": "",
-   "seconds": 0.3
+   "seconds": 8.5
   },
   {
    "name": "Kinectrics",
@@ -204,7 +204,7 @@
    "found": 2,
    "kept": 2,
    "message": "",
-   "seconds": 7.7
+   "seconds": 8.1
   },
   {
    "name": "Magellan Aerospace",
@@ -213,16 +213,16 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 6.7
+   "seconds": 6.6
   },
   {
    "name": "Magna International",
    "type": "workday",
    "status": "ok",
-   "found": 42,
-   "kept": 39,
+   "found": 41,
+   "kept": 38,
    "message": "",
-   "seconds": 54.1
+   "seconds": 53.4
   },
   {
    "name": "Multimatic",
@@ -231,7 +231,7 @@
    "found": 8,
    "kept": 5,
    "message": "",
-   "seconds": 15.5
+   "seconds": 15.6
   },
   {
    "name": "Nexteer Automotive",
@@ -240,7 +240,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.8
+   "seconds": 5.7
   },
   {
    "name": "Ontario Power Generation",
@@ -249,7 +249,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.8
+   "seconds": 5.6
   },
   {
    "name": "Procter & Gamble",
@@ -258,7 +258,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 30.9
+   "seconds": 30.7
   },
   {
    "name": "RTX (Pratt & Whitney Canada, Collins)",
@@ -276,7 +276,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 3.6
+   "seconds": 3.9
   },
   {
    "name": "Stellantis",
@@ -285,7 +285,16 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 7.2
+   "seconds": 7.0
+  },
+  {
+   "name": "Stryker",
+   "type": "workday",
+   "status": "ok",
+   "found": 38,
+   "kept": 30,
+   "message": "",
+   "seconds": 48.7
   },
   {
    "name": "Thermo Fisher Scientific",
@@ -294,7 +303,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 30.1
+   "seconds": 30.7
   },
   {
    "name": "Toronto Hydro",
@@ -339,7 +348,7 @@
    "found": 0,
    "kept": 0,
    "message": "robots.txt asks automated tools not to read /v1/companies/AECOM2/postings",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "Bosch",
@@ -357,7 +366,7 @@
    "found": 0,
    "kept": 0,
    "message": "site refused access (HTTP 403)",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "Mondelez International",
@@ -369,22 +378,13 @@
    "seconds": 0.3
   },
   {
-   "name": "Stryker",
-   "type": "workday",
-   "status": "error",
-   "found": 0,
-   "kept": 0,
-   "message": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "seconds": 6.1
-  },
-  {
    "name": "Toyota Canada",
    "type": "workday",
    "status": "error",
    "found": 0,
    "kept": 0,
    "message": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://toyota.wd5.myworkdayjobs.com/wday/cxs/toyota/Toyota_CA/jobs",
-   "seconds": 0.6
+   "seconds": 0.2
   },
   {
    "name": "Toyota Canada (co-op site)",
@@ -393,7 +393,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://toyota.wd5.myworkdayjobs.com/wday/cxs/toyota/Toyota_CA_Co-op_Site/jobs",
-   "seconds": 0.4
+   "seconds": 0.2
   },
   {
    "name": "AMD (Markham)",
