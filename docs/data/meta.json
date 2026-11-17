@@ -1,7 +1,7 @@
 {
- "last_run": "2026-11-16T15:50-05:00",
- "run_label": "Mon Nov 16, 2026 · 3:50 PM",
- "next_run": "2026-11-17T07:00-05:00",
+ "last_run": "2026-11-17T14:39-05:00",
+ "run_label": "Tue Nov 17, 2026 · 2:39 PM",
+ "next_run": "2026-11-18T07:00-05:00",
  "home": {
   "name": "Newmarket",
   "lat": 44.0592,
@@ -25,12 +25,12 @@
   "fresh": 5
  },
  "source_counts": {
-  "ok": 21,
-  "failed": 21,
+  "ok": 22,
+  "failed": 20,
   "total": 70
  },
  "skipped": {
-  "no keyword match": 7
+  "no keyword match": 8
  },
  "first_run": false
 }
