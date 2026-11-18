@@ -7,7 +7,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 30.0
+   "seconds": 31.5
   },
   {
    "name": "AECOM",
@@ -16,7 +16,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 3.3
+   "seconds": 3.8
   },
   {
    "name": "ATS Corporation",
@@ -25,7 +25,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 9.5
+   "seconds": 9.1
   },
   {
    "name": "BWXT",
@@ -34,7 +34,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 8.9
+   "seconds": 8.7
   },
   {
    "name": "Bombardier",
@@ -43,25 +43,16 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 90.4
-  },
-  {
-   "name": "Bruce Power",
-   "type": "workday",
-   "status": "ok",
-   "found": 0,
-   "kept": 0,
-   "message": "",
-   "seconds": 5.9
+   "seconds": 6.1
   },
   {
    "name": "Celestica",
    "type": "successfactors",
    "status": "ok",
-   "found": 27,
-   "kept": 27,
+   "found": 26,
+   "kept": 26,
    "message": "",
-   "seconds": 172.3
+   "seconds": 36.1
   },
   {
    "name": "Claude weekly discovery",
@@ -81,13 +72,26 @@
    "seconds": 11.5
   },
   {
+   "name": "General Motors Canada",
+   "type": "workday",
+   "status": "ok",
+   "found": 14,
+   "kept": 2,
+   "message": "",
+   "seconds": 97.3,
+   "notes": [
+    "detail failed /job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756: HTTP 429",
+    "detail failed /job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538: HTTP 429"
+   ]
+  },
+  {
    "name": "Hatch",
    "type": "successfactors",
    "status": "ok",
    "found": 3,
    "kept": 3,
    "message": "",
-   "seconds": 17.7
+   "seconds": 17.6
   },
   {
    "name": "Honeywell",
@@ -96,7 +100,7 @@
    "found": 2,
    "kept": 2,
    "message": "",
-   "seconds": 8.6
+   "seconds": 8.5
   },
   {
    "name": "Hydro One",
@@ -105,7 +109,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.4
+   "seconds": 5.5
   },
   {
    "name": "Job Bank Canada",
@@ -114,7 +118,7 @@
    "found": 7,
    "kept": 4,
    "message": "",
-   "seconds": 19.2
+   "seconds": 11.6
   },
   {
    "name": "Kepler Communications",
@@ -123,16 +127,16 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 0.6
+   "seconds": 8.7
   },
   {
    "name": "Kinectrics",
    "type": "successfactors",
    "status": "ok",
-   "found": 1,
-   "kept": 0,
+   "found": 2,
+   "kept": 1,
    "message": "",
-   "seconds": 6.8
+   "seconds": 7.6
   },
   {
    "name": "Magellan Aerospace",
@@ -141,7 +145,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 6.5
+   "seconds": 6.3
   },
   {
    "name": "Nexteer Automotive",
@@ -168,7 +172,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 31.1
+   "seconds": 30.7
   },
   {
    "name": "Stantec",
@@ -186,7 +190,7 @@
    "found": 1,
    "kept": 0,
    "message": "",
-   "seconds": 42.8
+   "seconds": 40.3
   },
   {
    "name": "Toronto Hydro",
@@ -195,7 +199,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.6
+   "seconds": 5.4
   },
   {
    "name": "Adzuna (job aggregator)",
@@ -222,7 +226,7 @@
    "found": 0,
    "kept": 0,
    "message": "robots.txt asks automated tools not to read /v1/companies/AECOM2/postings",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "Bosch",
@@ -240,7 +244,7 @@
    "found": 0,
    "kept": 0,
    "message": "site refused access (HTTP 403)",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "AtkinsRéalis",
@@ -249,19 +253,19 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 18.3
+   "seconds": 21.5
   },
   {
-   "name": "CAE",
+   "name": "Bruce Power",
    "type": "workday",
    "status": "error",
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 19.9
+   "seconds": 19.7
   },
   {
-   "name": "Enbridge",
+   "name": "CAE",
    "type": "workday",
    "status": "error",
    "found": 0,
@@ -276,15 +280,6 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 32.4
-  },
-  {
-   "name": "General Motors Canada",
-   "type": "workday",
-   "status": "error",
-   "found": 0,
-   "kept": 0,
-   "message": "HTTPError: HTTP 429",
    "seconds": 18.3
   },
   {
@@ -294,7 +289,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 19.8
+   "seconds": 19.9
   },
   {
    "name": "Johnson Controls",
@@ -303,7 +298,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 18.3
+   "seconds": 18.5
   },
   {
    "name": "Johnson Electric",
@@ -321,7 +316,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 38.2
+   "seconds": 19.9
   },
   {
    "name": "Mondelez International",
@@ -339,7 +334,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 18.7
+   "seconds": 18.6
   },
   {
    "name": "RTX (Pratt & Whitney Canada, Collins)",
@@ -357,7 +352,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 19.9
+   "seconds": 33.5
   },
   {
    "name": "Stryker",
@@ -383,8 +378,8 @@
    "status": "error",
    "found": 0,
    "kept": 0,
-   "message": "HTTPError: HTTP 429",
-   "seconds": 18.3
+   "message": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://toyota.wd5.myworkdayjobs.com/wday/cxs/toyota/Toyota_CA_Co-op_Site/jobs",
+   "seconds": 3.4
   },
   {
    "name": "ecobee",
@@ -393,7 +388,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 18.3
+   "seconds": 19.5
   },
   {
    "name": "AMD (Markham)",
@@ -458,6 +453,14 @@
    "found": 0,
    "kept": 0,
    "message": "Couldn't tell which careers system this site uses, so it's listed under 'Check by hand'."
+  },
+  {
+   "name": "Enbridge",
+   "type": "unknown",
+   "status": "undetected",
+   "found": 0,
+   "kept": 0,
+   "message": "HTTPError: HTTP 429"
   },
   {
    "name": "Ford Motor Company of Canada",
@@ -663,6 +666,12 @@
    "name": "Siemens Energy",
    "url": "https://jobs.siemens-energy.com/",
    "sector": "Energy equipment",
+   "why": "Careers system not recognised yet"
+  },
+  {
+   "name": "Enbridge",
+   "url": "https://careers.enbridge.com/",
+   "sector": "Energy",
    "why": "Careers system not recognised yet"
   },
   {

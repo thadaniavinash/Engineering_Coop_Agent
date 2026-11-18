@@ -1,7 +1,7 @@
 {
- "last_run": "2026-11-17T14:39-05:00",
- "run_label": "Tue Nov 17, 2026 · 2:39 PM",
- "next_run": "2026-11-18T07:00-05:00",
+ "last_run": "2026-11-18T14:15-05:00",
+ "run_label": "Wed Nov 18, 2026 · 2:15 PM",
+ "next_run": "2026-11-19T07:00-05:00",
  "home": {
   "name": "Newmarket",
   "lat": 44.0592,
@@ -26,11 +26,12 @@
  },
  "source_counts": {
   "ok": 22,
-  "failed": 20,
+  "failed": 19,
   "total": 70
  },
  "skipped": {
-  "no keyword match": 8
+  "no keyword match": 10,
+  "outside Ontario": 10
  },
  "first_run": false
 }
