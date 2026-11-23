@@ -7,7 +7,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 30.3
+   "seconds": 30.4
   },
   {
    "name": "AECOM",
@@ -16,7 +16,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 3.5
+   "seconds": 3.3
   },
   {
    "name": "ATS Corporation",
@@ -25,7 +25,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 10.1
+   "seconds": 10.5
   },
   {
    "name": "BWXT",
@@ -43,16 +43,16 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 6.5
+   "seconds": 6.3
   },
   {
    "name": "Celestica",
    "type": "successfactors",
    "status": "ok",
-   "found": 26,
-   "kept": 26,
+   "found": 27,
+   "kept": 27,
    "message": "",
-   "seconds": 36.2
+   "seconds": 37.3
   },
   {
    "name": "Claude weekly discovery",
@@ -69,7 +69,7 @@
    "found": 2,
    "kept": 0,
    "message": "",
-   "seconds": 10.5
+   "seconds": 10.7
   },
   {
    "name": "Hatch",
@@ -78,16 +78,16 @@
    "found": 3,
    "kept": 3,
    "message": "",
-   "seconds": 17.7
+   "seconds": 17.6
   },
   {
    "name": "Honeywell",
    "type": "oracle",
    "status": "ok",
-   "found": 2,
-   "kept": 2,
+   "found": 1,
+   "kept": 1,
    "message": "",
-   "seconds": 8.9
+   "seconds": 7.4
   },
   {
    "name": "Hydro One",
@@ -96,7 +96,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.7
+   "seconds": 5.6
   },
   {
    "name": "Job Bank Canada",
@@ -105,7 +105,7 @@
    "found": 6,
    "kept": 4,
    "message": "",
-   "seconds": 10.5
+   "seconds": 10.4
   },
   {
    "name": "Kepler Communications",
@@ -123,7 +123,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 6.7
+   "seconds": 6.3
   },
   {
    "name": "Magellan Aerospace",
@@ -150,7 +150,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.6
+   "seconds": 5.5
   },
   {
    "name": "Ontario Power Generation",
@@ -159,16 +159,16 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.7
+   "seconds": 5.4
   },
   {
    "name": "Procter & Gamble",
    "type": "phenom",
    "status": "ok",
-   "found": 0,
-   "kept": 0,
+   "found": 1,
+   "kept": 1,
    "message": "",
-   "seconds": 30.4
+   "seconds": 30.9
   },
   {
    "name": "Stantec",
@@ -177,7 +177,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 3.3
+   "seconds": 3.4
   },
   {
    "name": "Thermo Fisher Scientific",
@@ -186,7 +186,7 @@
    "found": 1,
    "kept": 1,
    "message": "",
-   "seconds": 31.6
+   "seconds": 43.4
   },
   {
    "name": "Toronto Hydro",
@@ -195,7 +195,7 @@
    "found": 0,
    "kept": 0,
    "message": "",
-   "seconds": 5.7
+   "seconds": 7.7
   },
   {
    "name": "Adzuna (job aggregator)",
@@ -222,7 +222,7 @@
    "found": 0,
    "kept": 0,
    "message": "robots.txt asks automated tools not to read /v1/companies/AECOM2/postings",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "Bosch",
@@ -240,7 +240,7 @@
    "found": 0,
    "kept": 0,
    "message": "site refused access (HTTP 403)",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "AtkinsRéalis",
@@ -249,7 +249,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 18.3
+   "seconds": 18.2
   },
   {
    "name": "Bruce Power",
@@ -258,7 +258,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 20.0
+   "seconds": 19.9
   },
   {
    "name": "CAE",
@@ -267,7 +267,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 20.0
+   "seconds": 19.8
   },
   {
    "name": "GE Vernova",
@@ -276,7 +276,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 30.5
+   "seconds": 18.3
   },
   {
    "name": "General Motors Canada",
@@ -285,7 +285,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 18.4
+   "seconds": 18.2
   },
   {
    "name": "Honda Canada",
@@ -294,7 +294,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 23.9
+   "seconds": 19.8
   },
   {
    "name": "Johnson Controls",
@@ -312,7 +312,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 20.0
+   "seconds": 19.8
   },
   {
    "name": "Magna International",
@@ -321,7 +321,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 20.1
+   "seconds": 19.8
   },
   {
    "name": "Mondelez International",
@@ -330,7 +330,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: 400 Client Error: Bad Request for url: https://www.mondelezinternational.com/global/en/search-results?keywords=co-op&location=Canada&from=0&s=1",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "RTX (Pratt & Whitney Canada, Collins)",
@@ -339,7 +339,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 18.4
+   "seconds": 20.4
   },
   {
    "name": "Stellantis",
@@ -348,7 +348,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 20.1
+   "seconds": 19.8
   },
   {
    "name": "Stryker",
@@ -365,8 +365,8 @@
    "status": "error",
    "found": 0,
    "kept": 0,
-   "message": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://toyota.wd5.myworkdayjobs.com/wday/cxs/toyota/Toyota_CA/jobs",
-   "seconds": 9.5
+   "message": "HTTPError: HTTP 429",
+   "seconds": 18.2
   },
   {
    "name": "Toyota Canada (co-op site)",
@@ -374,8 +374,8 @@
    "status": "error",
    "found": 0,
    "kept": 0,
-   "message": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://toyota.wd5.myworkdayjobs.com/wday/cxs/toyota/Toyota_CA_Co-op_Site/jobs",
-   "seconds": 0.2
+   "message": "HTTPError: HTTP 429",
+   "seconds": 18.3
   },
   {
    "name": "ecobee",
@@ -384,7 +384,7 @@
    "found": 0,
    "kept": 0,
    "message": "HTTPError: HTTP 429",
-   "seconds": 18.4
+   "seconds": 18.3
   },
   {
    "name": "AMD (Markham)",
@@ -440,7 +440,7 @@
    "status": "undetected",
    "found": 0,
    "kept": 0,
-   "message": "ReadTimeout: HTTPSConnectionPool(host='www.eaton.com', port=443): Read timed out. (read timeout=25.0)"
+   "message": "Blocked: site refused access (HTTP 403)"
   },
   {
    "name": "Emerson",
