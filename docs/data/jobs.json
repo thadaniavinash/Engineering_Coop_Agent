@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T17:28-05:00",
+ "generated": "2026-11-24T16:00-05:00",
  "jobs": [
   {
    "id": "5e4b82bd84e3",
@@ -39,7 +39,7 @@
    "deadline": null,
    "snippet": "​Req ID: 141145 Remote Position: No Region: Americas Country: Canada State/Province: Ontario City: Newmarket 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’",
    "first_seen": "2026-09-25",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -82,11 +82,11 @@
    "deadline": null,
    "snippet": "​Req ID: 141060 Remote Position: No Region: Americas Country: Canada State/Province: Ontario City: Newmarket 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
-   "score": 88
+   "score": 87
   },
   {
    "id": "1830e9d67ca9",
@@ -124,53 +124,11 @@
    "deadline": null,
    "snippet": "​Req ID: 141061 Remote Position: No Region: Americas Country: Canada State/Province: Ontario City: Newmarket 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
    "score": 83
-  },
-  {
-   "id": "a9de958d38cc",
-   "title": "Student Intern, Supplier Quality",
-   "company": "Celestica",
-   "sector": "Electronics manufacturing",
-   "url": "https://careers.celestica.com/job/Newmarket-Student-Intern%2C-Supplier-Quality-ON/1450011733/",
-   "source": "Celestica",
-   "source_type": "successfactors",
-   "city": "Newmarket",
-   "location": "Newmarket",
-   "region": "ontario",
-   "km": 0,
-   "mode": "Hybrid",
-   "term": "16",
-   "term_months": [
-    16
-   ],
-   "start": "2027-05",
-   "pay": [
-    23.0,
-    30.0
-   ],
-   "kw": [
-    "Design",
-    "Systems",
-    "Manufacturing"
-   ],
-   "skills": [
-    "CAD"
-   ],
-   "match": 0.62,
-   "citizen": true,
-   "posted": "2026-11-19",
-   "deadline": null,
-   "snippet": "​Req ID: 141269 Remote Position: No Region: Americas Country: Canada State/Province: Ontario City: Newmarket 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’",
-   "first_seen": "2026-10-22",
-   "last_seen": "2026-11-23",
-   "missed": 0,
-   "active": true,
-   "is_new": false,
-   "score": 82
   },
   {
    "id": "4ad022e9a486",
@@ -209,7 +167,7 @@
    "deadline": null,
    "snippet": "Req ID: 141282 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -251,7 +209,49 @@
    "deadline": null,
    "snippet": "​Req ID: 140803 Remote Position: No Region: Americas Country: Canada State/Province: Ontario City: Newmarket 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
+   "missed": 0,
+   "active": true,
+   "is_new": false,
+   "score": 81
+  },
+  {
+   "id": "a9de958d38cc",
+   "title": "Student Intern, Supplier Quality",
+   "company": "Celestica",
+   "sector": "Electronics manufacturing",
+   "url": "https://careers.celestica.com/job/Newmarket-Student-Intern%2C-Supplier-Quality-ON/1450011733/",
+   "source": "Celestica",
+   "source_type": "successfactors",
+   "city": "Newmarket",
+   "location": "Newmarket",
+   "region": "ontario",
+   "km": 0,
+   "mode": "Hybrid",
+   "term": "16",
+   "term_months": [
+    16
+   ],
+   "start": "2027-05",
+   "pay": [
+    23.0,
+    30.0
+   ],
+   "kw": [
+    "Design",
+    "Systems",
+    "Manufacturing"
+   ],
+   "skills": [
+    "CAD"
+   ],
+   "match": 0.62,
+   "citizen": true,
+   "posted": "2026-11-19",
+   "deadline": null,
+   "snippet": "​Req ID: 141269 Remote Position: No Region: Americas Country: Canada State/Province: Ontario City: Newmarket 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -293,7 +293,7 @@
    "deadline": null,
    "snippet": "​Req ID: 141211 Remote Position: No Region: Americas Country: Canada State/Province: Ontario City: Newmarket 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -336,7 +336,7 @@
    "deadline": null,
    "snippet": "Req ID: 141031 Remote Position: Yes Region: Americas Country: Canada State/Province: Ontario City: Remote Employee Canada 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working wi",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -378,7 +378,7 @@
    "deadline": null,
    "snippet": "​Req ID: 141102 Remote Position: No Region: Americas Country: Canada State/Province: Ontario City: Newmarket 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’",
    "first_seen": "2026-10-01",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -415,7 +415,7 @@
    "deadline": null,
    "snippet": "​Req ID: 141071 Remote Position: No Region: Americas Country: Canada State/Province: Ontario City: Newmarket 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’",
    "first_seen": "2026-10-06",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -457,7 +457,7 @@
    "deadline": null,
    "snippet": "Req ID: 141530 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -499,10 +499,10 @@
    "deadline": null,
    "snippet": "Req ID: 142325 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
-   "is_new": true,
+   "is_new": false,
    "score": 77
   },
   {
@@ -541,7 +541,7 @@
    "deadline": null,
    "snippet": "Req ID: 141177 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -583,7 +583,7 @@
    "deadline": null,
    "snippet": "Req ID: 141990 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -624,7 +624,7 @@
    "deadline": null,
    "snippet": "​Req ID: 141396 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Newmarket 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the wo",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -707,10 +707,11 @@
    "snippet": "Magellan Aerospace is a global, integrated aerospace company that provides complex assemblies and systems solutions to aircraft and engine manufacturers, and defence and space agencies worldwide. At Magellan we have over 80 years of collective knowledge and experience in the aerospace industry, and believe one truth: People create value. Employees are our greatest resource in working towards a successful future, and together we build professional relationships that thrive. We know that personal development is fundamental to the success of every individual and invest in our employees. When you are part of Magellan, you are part of the team! Position Summary Magellan Aerospace, Mississauga has",
    "first_seen": "2026-09-23",
    "last_seen": "2026-11-23",
-   "missed": 0,
+   "missed": 1,
    "active": true,
    "is_new": false,
-   "score": 72
+   "score": 71,
+   "missed_on": "2026-11-24"
   },
   {
    "id": "406e3168f000",
@@ -788,7 +789,7 @@
    "deadline": null,
    "snippet": "Req ID: 141387 Remote Position: Yes Region: Americas Country: Canada State/Province: Ontario City: Remote Employee Canada 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working wi",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -829,7 +830,7 @@
    "deadline": null,
    "snippet": "Req ID: 142617 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -871,7 +872,7 @@
    "deadline": null,
    "snippet": "Req ID: 141353 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -912,7 +913,7 @@
    "deadline": null,
    "snippet": "Req ID: 141239 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -953,7 +954,7 @@
    "deadline": null,
    "snippet": "Req ID: 141204 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-10-06",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -994,7 +995,7 @@
    "deadline": null,
    "snippet": "Req ID: 141346 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -1121,7 +1122,7 @@
    "deadline": null,
    "snippet": "Req ID: 140928 Remote Position: Yes Region: Americas Country: Canada State/Province: Ontario City: Remote Employee Canada 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working wi",
    "first_seen": "2026-09-25",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -1239,7 +1240,7 @@
    "deadline": null,
    "snippet": "intern Title posted on Talent.com - Machine Maintenance Coordinator Intern Posted on October 30, 2026 by Employer details BRC Group Inc. Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details <h3>Position Summary</h3><p>The Machine Maintenance Coordinator Intern will support the Maintenance and Engineering teams in identifying opportunities to improve production efficiency, optimize machinery performance, and enhance manufacturing processes. This role involves analyzing production data, assisting with preventative maintenance initiatives, supporting",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -1317,7 +1318,7 @@
    "deadline": null,
    "snippet": "intern Title posted on Talent.com - Machine Maintenance Coordinator Intern Posted on October 30, 2026 by Employer details BRC Group Inc. Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details <h3>Position Summary</h3><p>The Machine Maintenance Coordinator Intern will support the Maintenance and Engineering teams in identifying opportunities to improve production efficiency, optimize machinery performance, and enhance manufacturing processes. This role involves analyzing production data, assisting with preventative maintenance initiatives, supporting",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -1771,7 +1772,7 @@
    "deadline": null,
    "snippet": "Key Responsibilities: Assist in solving maintenance related problems with minimum interruption to production. Perform all maintenance and repair work in either the plant or grounds as assigned. Ensure all weld quality specifications are met, by continuously monitoring the weld processes on the equipment assigned. Troubleshoot all aspects of the weld process as required. Assist in maintaining up to date documentation of all equipment. This includes documenting all of the changes to the equipment in MVP. Actively participate in the Preventative Maintenance Program, and down time reduction process. This includes following the PMP schedule and completing the PMP checklists. Participate in develo",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -2225,7 +2226,7 @@
    "missed": 1,
    "active": true,
    "is_new": false,
-   "score": 57,
+   "score": 56,
    "missed_on": "2026-11-03"
   },
   {
@@ -2707,7 +2708,7 @@
    "deadline": null,
    "snippet": "Req ID: 140748 Remote Position: No Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’s l",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -2781,11 +2782,48 @@
    "deadline": null,
    "snippet": "Position Overview Multimatic is always interested in connecting with motivated students who are pursuing a career in engineering. We are accepting resumes from students interested in potential engineering internship opportunities at our New Haven facility. This posting is intended to establish a pool of interested candidates for future opportunities as they become available. If you are looking to gain hands-on experience in a fast-paced manufacturing environment, we encourage you to submit your resume for consideration. Qualifications - Currently pursuing a degree in Mechanical Engineering, Manufacturing Engineering, or a related field. - **CAD experience is required.** - Strong mechanical a",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
    "score": 54
+  },
+  {
+   "id": "e821ca76f1ad",
+   "title": "Intern Bachelors Field Service Technician (Missausaga/Oakville)",
+   "company": "Honeywell",
+   "sector": "Aerospace & automation",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/162993",
+   "source": "Honeywell",
+   "source_type": "oracle",
+   "city": "Markham",
+   "location": "Markham",
+   "region": "ontario",
+   "km": 25,
+   "mode": "On-site",
+   "term": "unclear",
+   "term_months": [],
+   "start": "unclear",
+   "pay": [
+    22.0,
+    25.0
+   ],
+   "kw": [
+    "Mechanical Engineering",
+    "Systems"
+   ],
+   "skills": [],
+   "match": 0.4,
+   "citizen": false,
+   "posted": "2026-11-24",
+   "deadline": null,
+   "snippet": "As an Intern Bachelors Field Service Engineer here at Honeywell, you will gain hands-on experience and exposure to field service operations. You will have the opportunity to work on real projects, providing technical support and learning from experienced engineers. This role will help you develop your problem-solving skills and technical expertise in a practical setting. In this role, you will impact the success of our field service operations by supporting the team in troubleshooting and resolving technical issues, assisting in project execution, and contributing to customer satisfaction. At Honeywell, our people leaders play a critical role in developing and supporting our employees to hel",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "missed": 0,
+   "active": true,
+   "is_new": true,
+   "score": 53
   },
   {
    "id": "829c11e2e052",
@@ -2890,7 +2928,7 @@
    "deadline": null,
    "snippet": "Req ID: 132610 Remote Position: No Region: Asia Country: Thailand State/Province: Chonburi City: Laem Chabang Summary Role Summary The Manager of Internal Controls & Compliance is a high-visibility, strategic leadership role. By designing, implementing, and monitoring the internal control environment in Celestica Thailand, you will act as the \" guardian of financial integrity ,\" ensuring strict adherence to Internal Controls and policies, SOX, local regulations, and BOI (Board of Investment) requirements. This role ensures all financial processes are compliant with company policies and acts as liaison between plant operations and corporate internal audit , ensuring that operational risks do ",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -2925,7 +2963,7 @@
    "deadline": null,
    "snippet": "Req ID: 142608 Remote Position: No Region: Europe Country: Spain State/Province: La Pobla De Vallbona City: Valencia General Overview Functional Area: Engineering (ENG) Career Stream: Product Design (DSN) Role: Technical Support 1 (TS1) Job Title: Design Engineering Support 1 Job Code: TS1-ENG-DES Job Level: Level 04 Direct/Indirect Indicator: Indirect Summary Company: Celestica Valencia S.A. Celestica is a Canadian company, world leader in the electronic manufacturing sector. The plant in Valencia focuses its activities in the Aerospace, Industrial and Healthcare areas, producing and assembling high complexity products. The main differentiator in Valencia facilities are its design capabilit",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -3210,7 +3248,7 @@
    "deadline": null,
    "snippet": "Key Responsibilities: Assist Manufacturing Engineers to prepare and maintain manufacturing bills of materials for all products, i.e. parent component relationship, part numbers, and quantity per, at 98% accuracy level. Track and co-ordinate with Scheduling, Tooling and QC the proper timing of ECN's to ensure proper timing and production at required engineering level. Prepare and maintain part-numbering system and assign part numbers to raw materials, components, subassemblies and assemblies as required, following the form-fit-function rules. Assist Manufacturing Engineers to develop and maintain; plant and equipment layouts, manufacturing flow charts, process plans, production standards, eng",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -3245,7 +3283,7 @@
    "deadline": null,
    "snippet": "intern Title posted on CareersInFood.com - Operations Engineering Intern Co-op - Winter Posted on October 30, 2026 by Employer details Bunge North America Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details City : Harrowby State : Manitoba (CA-MB) Country : Canada (CA) Requisition Number : 47739 A Day in the Life:The Bunge Engineering Internship Program is looking for collaborative results oriented candidates with strong critical thinking and communication skills. The internship is designed to give you an understanding of the operations and proce",
    "first_seen": "2026-10-31",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -3435,43 +3473,6 @@
    "score": 51
   },
   {
-   "id": "91e39463e7e9",
-   "title": "Intern Bachelors Field Service Technician, Markham Ontario",
-   "company": "Honeywell",
-   "sector": "Aerospace & automation",
-   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160178",
-   "source": "Honeywell",
-   "source_type": "oracle",
-   "city": "Markham",
-   "location": "Markham",
-   "region": "ontario",
-   "km": 25,
-   "mode": "On-site",
-   "term": "unclear",
-   "term_months": [],
-   "start": "unclear",
-   "pay": [
-    22.0,
-    25.0
-   ],
-   "kw": [
-    "Mechanical Engineering",
-    "Systems"
-   ],
-   "skills": [],
-   "match": 0.4,
-   "citizen": false,
-   "posted": "2026-10-19",
-   "deadline": null,
-   "snippet": "As an Intern Bachelors Field Service Engineer here at Honeywell, you will gain hands-on experience and exposure to field service operations. You will have the opportunity to work on real projects, providing technical support and learning from experienced engineers. This role will help you develop your problem-solving skills and technical expertise in a practical setting. In this role, you will impact the success of our field service operations by supporting the team in troubleshooting and resolving technical issues, assisting in project execution, and contributing to customer satisfaction. At Honeywell, our people leaders play a critical role in developing and supporting our employees to hel",
-   "first_seen": "2026-11-06",
-   "last_seen": "2026-11-23",
-   "missed": 0,
-   "active": true,
-   "is_new": false,
-   "score": 50
-  },
-  {
    "id": "1698711beb49",
    "title": "Engineering Co-op Student - Inspection & Maintenance Systems (Winter 2027)",
    "company": "Kinectrics",
@@ -3508,49 +3509,11 @@
    "deadline": null,
    "snippet": "Engineering Co-op Student – Inspection & Maintenance Systems (Winter 2027) About Us Ready to kickstart your career in one of Canada’s rapidly growing industries? Join Kinectrics, a company that takes pride in being consistently ranked as one of the best places to work in the nuclear and energy sector, where purpose and people mean as much as innovation and growth. Since 2023, Kinectrics has employed over 200 students, providing them with the opportunity to grow and make a meaningful impact. Being recognized as Best Co-op Employer of the Year and recipient of the University of Waterloo Award for Next Generation Employment Innovation reflects our commitment to developing the next generation of",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
    "score": 50
-  },
-  {
-   "id": "5baf4b4ea32f",
-   "title": "Intern Bachelors Field Service Tech (Mississauga | Oakville)",
-   "company": "Honeywell",
-   "sector": "Aerospace & automation",
-   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160397",
-   "source": "Honeywell",
-   "source_type": "oracle",
-   "city": "Markham",
-   "location": "Markham",
-   "region": "ontario",
-   "km": 25,
-   "mode": "On-site",
-   "term": "unclear",
-   "term_months": [],
-   "start": "unclear",
-   "pay": [
-    22.0,
-    25.0
-   ],
-   "kw": [
-    "Mechanical Engineering",
-    "Systems"
-   ],
-   "skills": [],
-   "match": 0.4,
-   "citizen": false,
-   "posted": "2026-10-19",
-   "deadline": null,
-   "snippet": "As an Intern Bachelors Field Service Engineer here at Honeywell, you will gain hands-on experience and exposure to field service operations. You will have the opportunity to work on real projects, providing technical support and learning from experienced engineers. This role will help you develop your problem-solving skills and technical expertise in a practical setting. In this role, you will impact the success of our field service operations by supporting the team in troubleshooting and resolving technical issues, assisting in project execution, and contributing to customer satisfaction. At Honeywell, our people leaders play a critical role in developing and supporting our employees to hel",
-   "first_seen": "2026-11-06",
-   "last_seen": "2026-11-22",
-   "missed": 1,
-   "active": true,
-   "is_new": false,
-   "score": 50,
-   "missed_on": "2026-11-23"
   },
   {
    "id": "ac2c4aea6708",
@@ -3868,6 +3831,81 @@
    "active": true,
    "is_new": false,
    "score": 50
+  },
+  {
+   "id": "91e39463e7e9",
+   "title": "Intern Bachelors Field Service Technician, Markham Ontario",
+   "company": "Honeywell",
+   "sector": "Aerospace & automation",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160178",
+   "source": "Honeywell",
+   "source_type": "oracle",
+   "city": "Markham",
+   "location": "Markham",
+   "region": "ontario",
+   "km": 25,
+   "mode": "On-site",
+   "term": "unclear",
+   "term_months": [],
+   "start": "unclear",
+   "pay": [
+    22.0,
+    25.0
+   ],
+   "kw": [
+    "Mechanical Engineering",
+    "Systems"
+   ],
+   "skills": [],
+   "match": 0.4,
+   "citizen": false,
+   "posted": "2026-10-19",
+   "deadline": null,
+   "snippet": "As an Intern Bachelors Field Service Engineer here at Honeywell, you will gain hands-on experience and exposure to field service operations. You will have the opportunity to work on real projects, providing technical support and learning from experienced engineers. This role will help you develop your problem-solving skills and technical expertise in a practical setting. In this role, you will impact the success of our field service operations by supporting the team in troubleshooting and resolving technical issues, assisting in project execution, and contributing to customer satisfaction. At Honeywell, our people leaders play a critical role in developing and supporting our employees to hel",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-24",
+   "missed": 0,
+   "active": true,
+   "is_new": false,
+   "score": 49
+  },
+  {
+   "id": "5baf4b4ea32f",
+   "title": "Intern Bachelors Field Service Tech (Mississauga | Oakville)",
+   "company": "Honeywell",
+   "sector": "Aerospace & automation",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160397",
+   "source": "Honeywell",
+   "source_type": "oracle",
+   "city": "Markham",
+   "location": "Markham",
+   "region": "ontario",
+   "km": 25,
+   "mode": "On-site",
+   "term": "unclear",
+   "term_months": [],
+   "start": "unclear",
+   "pay": [
+    22.0,
+    25.0
+   ],
+   "kw": [
+    "Mechanical Engineering",
+    "Systems"
+   ],
+   "skills": [],
+   "match": 0.4,
+   "citizen": false,
+   "posted": "2026-10-19",
+   "deadline": null,
+   "snippet": "As an Intern Bachelors Field Service Engineer here at Honeywell, you will gain hands-on experience and exposure to field service operations. You will have the opportunity to work on real projects, providing technical support and learning from experienced engineers. This role will help you develop your problem-solving skills and technical expertise in a practical setting. In this role, you will impact the success of our field service operations by supporting the team in troubleshooting and resolving technical issues, assisting in project execution, and contributing to customer satisfaction. At Honeywell, our people leaders play a critical role in developing and supporting our employees to hel",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-22",
+   "missed": 2,
+   "active": true,
+   "is_new": false,
+   "score": 49,
+   "missed_on": "2026-11-24"
   },
   {
    "id": "f803088c640d",
@@ -4540,7 +4578,7 @@
    "deadline": null,
    "snippet": "Key Responsibilities: Work closely with the quality, process engineering, and production departments to support program launches and current production activities. Assist in the physical inspection, testing, labeling and packing of prototype parts. Assist in the physical inspection and testing of production parts. Assist in checking parts on stamping, weld and final check fixtures including preparing data obtained for reports. Assist on assembly lines as needed for both regular production and launch builds. Assist Quality Engineers in GM EPC & Ford FIREWALL (Early Production Containment). Assist Quality Engineers in customer concern sort and containment activities. Complete test data entry a",
    "first_seen": "2026-09-29",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -4748,7 +4786,7 @@
    "deadline": null,
    "snippet": "Key Responsibilities: Collaborating with stakeholders to identify and document software application requirements. Designing application architecture, considering scalability, performance, and security aspects. Writing clean, efficient code using relevant programming languages and frameworks. Performing unit, integration, and system testing to identify and resolve bugs. Deploying applications to production environments. Providing ongoing maintenance, resolving production issues, and addressing user concerns. Creating clear and concise technical documentation for applications. Monitoring application performance and identifying areas for improvement. Basic Requirements: Currently enrolled in a ",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -5482,44 +5520,11 @@
    "deadline": null,
    "snippet": "Job Location CINCINNATI GENERAL OFFICES Job Description P&G is the largest consumer packaged goods company in the world. We have operations in over 75 countries, with 65 trusted brands that improve lives for 5 billion consumers worldwide. This brings many advantages, including the opportunity for our employees to enjoy a diverse and rewarding lifelong career filled with new and exciting challenges. We give you the tools to become a world class leader! P&G is recognized as one of the Top Companies for Executive Women, Fast Company Best Workplace for Innovators, and as one of the Most Reputable Companies by both Forbes and Fortune. How would you like to spend your summer on a dynamic team supp",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
    "score": 40
-  },
-  {
-   "id": "8a3acbe2ba04",
-   "title": "Commercial Student",
-   "company": "Hatch",
-   "sector": "Engineering consulting",
-   "url": "https://jobs.hatch.com/job/Mississauga-Commercial-Student-ON/1442903500/",
-   "source": "Hatch",
-   "source_type": "successfactors",
-   "city": "Mississauga",
-   "location": "Mississauga",
-   "region": "ontario",
-   "km": 54,
-   "mode": "",
-   "term": "unclear",
-   "term_months": [],
-   "start": "2027-01",
-   "pay": null,
-   "kw": [
-    "Systems"
-   ],
-   "skills": [],
-   "match": 0.2,
-   "citizen": true,
-   "posted": "2026-11-20",
-   "deadline": null,
-   "snippet": "Requisition ID: 102664 Job Category: Campus Location: Mississauga, ON, Canada Join a company that is passionately committed to the pursuit of a better world through positive change. With more than 70 years of business and technical expertise in mining , energy , and infrastructure , our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally. Join our Project Delivery Group (PDG), a dynamic team of professionals passionately committed to world-class project delivery across the globe. With expertise in sustainable studies, asset building an",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-11-23",
-   "missed": 0,
-   "active": true,
-   "is_new": false,
-   "score": 39
   },
   {
    "id": "7c98d79485eb",
@@ -5599,6 +5604,39 @@
    "score": 39
   },
   {
+   "id": "8a3acbe2ba04",
+   "title": "Commercial Student",
+   "company": "Hatch",
+   "sector": "Engineering consulting",
+   "url": "https://jobs.hatch.com/job/Mississauga-Commercial-Student-ON/1442903500/",
+   "source": "Hatch",
+   "source_type": "successfactors",
+   "city": "Mississauga",
+   "location": "Mississauga",
+   "region": "ontario",
+   "km": 54,
+   "mode": "",
+   "term": "unclear",
+   "term_months": [],
+   "start": "2027-01",
+   "pay": null,
+   "kw": [
+    "Systems"
+   ],
+   "skills": [],
+   "match": 0.2,
+   "citizen": true,
+   "posted": "2026-11-20",
+   "deadline": null,
+   "snippet": "Requisition ID: 102664 Job Category: Campus Location: Mississauga, ON, Canada Join a company that is passionately committed to the pursuit of a better world through positive change. With more than 70 years of business and technical expertise in mining , energy , and infrastructure , our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally. Join our Project Delivery Group (PDG), a dynamic team of professionals passionately committed to world-class project delivery across the globe. With expertise in sustainable studies, asset building an",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-11-24",
+   "missed": 0,
+   "active": true,
+   "is_new": false,
+   "score": 38
+  },
+  {
    "id": "9f715327c48d",
    "title": "BR_2027 | NGP - NEW GRADUATE PROCESS - STUDENT PROGRAM",
    "company": "Hatch",
@@ -5625,7 +5663,7 @@
    "deadline": null,
    "snippet": "Requisition ID: 101631 Job Category: Engineering Location: Belo Horizonte, Minas Gerais, Brazil Join a company that is passionately committed to the pursuit of a better world through positive change. With more than 70 years of business and technical expertise in mining , energy , and infrastructure , our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally. Join our Project Delivery Group (PDG), a dynamic team of professionals passionately committed to world-class project delivery across the globe. With expertise in sustainable studies,",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -5659,10 +5697,11 @@
    "snippet": "Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description When you’re part of Thermo Fisher Scientific, you’ll do challenging work and be part of a team that values performance, quality, and innovation. As part of a successful, growing global organization, you will be encouraged to perform at your best. We give our people the resources and opportunities to make meaningful contributions to the world. The Team Our Supplier Quality team focuses on ensuring supplier performance, product quality, and supply chain reliability. We work closely with suppliers and internal teams to identify risks, resolve quality issues, and drive continuous improvement. The Position Are you a ",
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-23",
-   "missed": 0,
+   "missed": 1,
    "active": true,
    "is_new": false,
-   "score": 38
+   "score": 38,
+   "missed_on": "2026-11-24"
   },
   {
    "id": "718a56239587",
@@ -5812,6 +5851,43 @@
    "score": 38
   },
   {
+   "id": "14cc570ee18e",
+   "title": "Intern Bachelors Field Service Technician (Ottowa, ON)",
+   "company": "Honeywell",
+   "sector": "Aerospace & automation",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/162658",
+   "source": "Honeywell",
+   "source_type": "oracle",
+   "city": "Ottawa",
+   "location": "Ottawa",
+   "region": "ontario",
+   "km": 334,
+   "mode": "On-site",
+   "term": "unclear",
+   "term_months": [],
+   "start": "unclear",
+   "pay": [
+    22.0,
+    25.0
+   ],
+   "kw": [
+    "Mechanical Engineering",
+    "Systems"
+   ],
+   "skills": [],
+   "match": 0.4,
+   "citizen": false,
+   "posted": "2026-11-24",
+   "deadline": null,
+   "snippet": "As an Intern Bachelors Field Service Engineer here at Honeywell, you will gain hands-on experience and exposure to field service operations. You will have the opportunity to work on real projects, providing technical support and learning from experienced engineers. This role will help you develop your problem-solving skills and technical expertise in a practical setting. In this role, you will impact the success of our field service operations by supporting the team in troubleshooting and resolving technical issues, assisting in project execution, and contributing to customer satisfaction. At Honeywell, our people leaders play a critical role in developing and supporting our employees to hel",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "missed": 0,
+   "active": true,
+   "is_new": true,
+   "score": 36
+  },
+  {
    "id": "560cf8344603",
    "title": "Stagiaire Outils Automatisme – H/F",
    "company": "GE Vernova",
@@ -5845,7 +5921,7 @@
    "missed": 0,
    "active": true,
    "is_new": false,
-   "score": 37
+   "score": 36
   },
   {
    "id": "70117b945f77",
@@ -6187,7 +6263,7 @@
    "deadline": null,
    "snippet": "Requisition ID: 102186 Job Category: Campus Location: Mississauga, ON, Canada Join a company that is passionately committed to the pursuit of a better world through positive change. With more than 70 years of business and technical expertise in mining , energy , and infrastructure , our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally. Our Project Delivery Group (PDG) is a dynamic team of professionals passionately committed to world-class project delivery across the globe. With expertise in sustainable studies, asset building and o",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "missed": 0,
    "active": true,
    "is_new": false,
@@ -6267,11 +6343,11 @@
    "snippet": "​Req ID: 140792 Remote Position: No Region: Americas Country: Canada State/Province: Ontario City: Newmarket 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’",
    "first_seen": "2026-10-06",
    "last_seen": "2026-10-26",
-   "missed": 28,
+   "missed": 29,
    "active": false,
    "is_new": false,
    "score": 84,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "52225c31569c",
@@ -6311,11 +6387,11 @@
    "snippet": "Req ID: 140997 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-09-29",
    "last_seen": "2026-11-19",
-   "missed": 4,
+   "missed": 5,
    "active": false,
    "is_new": false,
-   "score": 82,
-   "missed_on": "2026-11-23"
+   "score": 81,
+   "missed_on": "2026-11-24"
   },
   {
    "id": "d605b88f1e2b",
@@ -6354,11 +6430,11 @@
    "snippet": "​Req ID: 140848 Remote Position: No Region: Americas Country: Canada State/Province: Ontario City: Newmarket 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’",
    "first_seen": "2026-09-23",
    "last_seen": "2026-11-17",
-   "missed": 6,
+   "missed": 7,
    "active": false,
    "is_new": false,
    "score": 81,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "c23bc9768cc0",
@@ -6397,11 +6473,11 @@
    "snippet": "​Req ID: 140914 Remote Position: No Region: Americas Country: Canada State/Province: Ontario City: Newmarket 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’",
    "first_seen": "2026-10-09",
    "last_seen": "2026-11-06",
-   "missed": 17,
+   "missed": 18,
    "active": false,
    "is_new": false,
    "score": 80,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "bc7e6b57f7e4",
@@ -6441,11 +6517,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "Strong fit: 16 months from spring 2027, for 3rd-year mechanical students. About 54 km away in Mississauga. Needs a transcript.",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 78,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "d53515d6960f",
@@ -6484,11 +6560,11 @@
    "snippet": "Req ID: 141059 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-10-09",
    "last_seen": "2026-11-16",
-   "missed": 7,
+   "missed": 8,
    "active": false,
    "is_new": false,
    "score": 76,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "538b237fedfa",
@@ -6527,11 +6603,11 @@
    "snippet": "Req ID: 140994 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-10-10",
    "last_seen": "2026-11-13",
-   "missed": 10,
+   "missed": 11,
    "active": false,
    "is_new": false,
    "score": 76,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "ba89451fba11",
@@ -6570,11 +6646,11 @@
    "snippet": "Req ID: 140682 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-09-23",
    "last_seen": "2026-11-10",
-   "missed": 13,
+   "missed": 14,
    "active": false,
    "is_new": false,
    "score": 73,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "d88f92ce195b",
@@ -6613,11 +6689,11 @@
    "snippet": "Req ID: 140753 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world",
    "first_seen": "2026-09-23",
    "last_seen": "2026-11-02",
-   "missed": 21,
+   "missed": 22,
    "active": false,
    "is_new": false,
    "score": 73,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "775872e4bcff",
@@ -6661,11 +6737,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "16 months (sometimes 12). Start date not stated, so confirm it's May 2027. Needs Controlled Goods eligibility. About 36 km away (Don Mills).",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 72,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "5fa51f018ccb",
@@ -6744,11 +6820,11 @@
    "snippet": "Project Controls - Station, Projects & Engineering Analyst (PEY Student - Summer 2027) About Us Ready to kickstart your career in one of Canada’s rapidly growing industries? Join Kinectrics, a company that takes pride in being consistently ranked as one of the best places to work in the nuclear and energy sector, where purpose and people mean as much as innovation and growth. Since 2023, Kinectrics has employed over 200 students, providing them with the opportunity to grow and make a meaningful impact. Being recognized as Best Co-op Employer of the Year and recipient of the University of Waterloo Award for Next Generation Employment Innovation reflects our commitment to developing the next g",
    "first_seen": "2026-09-30",
    "last_seen": "2026-11-15",
-   "missed": 8,
+   "missed": 9,
    "active": false,
    "is_new": false,
    "score": 70,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "58bc46f669ef",
@@ -6785,11 +6861,11 @@
    "snippet": "Project Controls - Station, Projects & Engineering Programmer (PEY Student - Summer 2027) About Us Ready to kickstart your career in one of Canada’s rapidly growing industries? Join Kinectrics, a company that takes pride in being consistently ranked as one of the best places to work in the nuclear and energy sector, where purpose and people mean as much as innovation and growth. Since 2023, Kinectrics has employed over 200 students, providing them with the opportunity to grow and make a meaningful impact. Being recognized as Best Co-op Employer of the Year and recipient of the University of Waterloo Award for Next Generation Employment Innovation reflects our commitment to developing the nex",
    "first_seen": "2026-09-30",
    "last_seen": "2026-11-15",
-   "missed": 8,
+   "missed": 9,
    "active": false,
    "is_new": false,
    "score": 70,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "3efa7c08385d",
@@ -6828,11 +6904,11 @@
    "snippet": "Req ID: 141063 Remote Position: Yes Region: Americas Country: Canada State/Province: Ontario City: Remote Employee Canada 16 Month Internship As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia. With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working wi",
    "first_seen": "2026-09-23",
    "last_seen": "2026-11-10",
-   "missed": 13,
+   "missed": 14,
    "active": false,
    "is_new": false,
    "score": 68,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "36493fc1bb8c",
@@ -7034,7 +7110,7 @@
    "missed": 4,
    "active": false,
    "is_new": false,
-   "score": 64,
+   "score": 63,
    "missed_on": "2026-11-15"
   },
   {
@@ -7071,7 +7147,7 @@
    "missed": 15,
    "active": false,
    "is_new": false,
-   "score": 64,
+   "score": 63,
    "missed_on": "2026-11-15"
   },
   {
@@ -7111,11 +7187,11 @@
    "snippet": "intern Title posted on Talent.com - Machine Maintenance Coordinator Intern Posted on October 30, 2026 by Employer details BRC Group Inc. Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details <h3>Position Summary</h3><p>The Machine Maintenance Coordinator Intern will support the Maintenance and Engineering teams in identifying opportunities to improve production efficiency, optimize machinery performance, and enhance manufacturing processes. This role involves analyzing production data, assisting with preventative maintenance initiatives, supporting",
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-19",
-   "missed": 4,
+   "missed": 5,
    "active": false,
    "is_new": false,
    "score": 63,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "1cd3488ba157",
@@ -7154,11 +7230,11 @@
    "snippet": "intern Title posted on Talent.com - Machine Maintenance Coordinator Intern Posted on October 30, 2026 by Employer details BRC Group Inc. Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details <h3>Position Summary</h3><p>The Machine Maintenance Coordinator Intern will support the Maintenance and Engineering teams in identifying opportunities to improve production efficiency, optimize machinery performance, and enhance manufacturing processes. This role involves analyzing production data, assisting with preventative maintenance initiatives, supporting",
    "first_seen": "2026-11-06",
    "last_seen": "2026-11-12",
-   "missed": 11,
+   "missed": 12,
    "active": false,
    "is_new": false,
    "score": 63,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "b1f08ada75a4",
@@ -7197,11 +7273,11 @@
    "snippet": "intern Title posted on Talent.com - Machine Maintenance Coordinator Intern Posted on October 30, 2026 by Employer details BRC Group Inc. Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details <h3>Position Summary</h3><p>The Machine Maintenance Coordinator Intern will support the Maintenance and Engineering teams in identifying opportunities to improve production efficiency, optimize machinery performance, and enhance manufacturing processes. This role involves analyzing production data, assisting with preventative maintenance initiatives, supporting",
    "first_seen": "2026-10-31",
    "last_seen": "2026-11-05",
-   "missed": 18,
+   "missed": 19,
    "active": false,
    "is_new": false,
    "score": 63,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "2b7667421895",
@@ -7239,11 +7315,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "Deadline Sept 30, 2026. Up to 12 months from May 2027, and the best pay here. Needs security clearance. About 64 km away (Bowmanville/Pickering).",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 63,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "0e4825efc45c",
@@ -7364,11 +7440,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "One-year term and only 6 km from home (Aurora). Start date and pay not stated, so confirm it's May 2027.",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 62,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "f2d473b77007",
@@ -7412,11 +7488,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "Starts Winter 2027, before May, but offers 8, 12 or 16 months. Worth asking whether a May start is possible. About 27 km away (Thornhill).",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 62,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "89da4a927d11",
@@ -7455,11 +7531,11 @@
    "snippet": "intern Title posted on Talent.com - Machine Maintenance Coordinator Intern Posted on October 30, 2026 by Employer details BRC Group Inc. Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details <h3>Position Summary</h3><p>The Machine Maintenance Coordinator Intern will support the Maintenance and Engineering teams in identifying opportunities to improve production efficiency, optimize machinery performance, and enhance manufacturing processes. This role involves analyzing production data, assisting with preventative maintenance initiatives, supporting",
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-19",
-   "missed": 4,
+   "missed": 5,
    "active": false,
    "is_new": false,
    "score": 61,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "e2dee267589d",
@@ -7498,11 +7574,11 @@
    "snippet": "intern Title posted on Talent.com - Machine Maintenance Coordinator Intern Posted on October 30, 2026 by Employer details BRC Group Inc. Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details <h3>Position Summary</h3><p>The Machine Maintenance Coordinator Intern will support the Maintenance and Engineering teams in identifying opportunities to improve production efficiency, optimize machinery performance, and enhance manufacturing processes. This role involves analyzing production data, assisting with preventative maintenance initiatives, supporting",
    "first_seen": "2026-11-09",
    "last_seen": "2026-11-12",
-   "missed": 11,
+   "missed": 12,
    "active": false,
    "is_new": false,
    "score": 61,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "3b4ed3c413fb",
@@ -7541,11 +7617,11 @@
    "snippet": "intern Title posted on Talent.com - Machine Maintenance Coordinator Intern Posted on October 30, 2026 by Employer details BRC Group Inc. Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details <h3>Position Summary</h3><p>The Machine Maintenance Coordinator Intern will support the Maintenance and Engineering teams in identifying opportunities to improve production efficiency, optimize machinery performance, and enhance manufacturing processes. This role involves analyzing production data, assisting with preventative maintenance initiatives, supporting",
    "first_seen": "2026-11-07",
    "last_seen": "2026-11-08",
-   "missed": 15,
+   "missed": 16,
    "active": false,
    "is_new": false,
    "score": 61,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "ae470ecc0aeb",
@@ -7584,11 +7660,11 @@
    "snippet": "intern Title posted on Talent.com - Machine Maintenance Coordinator Intern Posted on October 30, 2026 by Employer details BRC Group Inc. Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details <h3>Position Summary</h3><p>The Machine Maintenance Coordinator Intern will support the Maintenance and Engineering teams in identifying opportunities to improve production efficiency, optimize machinery performance, and enhance manufacturing processes. This role involves analyzing production data, assisting with preventative maintenance initiatives, supporting",
    "first_seen": "2026-11-06",
    "last_seen": "2026-11-06",
-   "missed": 17,
+   "missed": 18,
    "active": false,
    "is_new": false,
    "score": 61,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "94b278db26e2",
@@ -7627,11 +7703,11 @@
    "snippet": "intern Title posted on Talent.com - Machine Maintenance Coordinator Intern Posted on October 30, 2026 by Employer details BRC Group Inc. Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details <h3>Position Summary</h3><p>The Machine Maintenance Coordinator Intern will support the Maintenance and Engineering teams in identifying opportunities to improve production efficiency, optimize machinery performance, and enhance manufacturing processes. This role involves analyzing production data, assisting with preventative maintenance initiatives, supporting",
    "first_seen": "2026-10-31",
    "last_seen": "2026-11-05",
-   "missed": 18,
+   "missed": 19,
    "active": false,
    "is_new": false,
    "score": 61,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "b783037fcf99",
@@ -7671,7 +7747,7 @@
    "missed": 3,
    "active": false,
    "is_new": false,
-   "score": 61,
+   "score": 60,
    "missed_on": "2026-11-15"
   },
   {
@@ -7835,11 +7911,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "16 months (sometimes 12). Start not stated. Needs Controlled Goods clearance. About 88 km away in Waterdown.",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 58,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "4641c4935d6b",
@@ -8138,11 +8214,11 @@
    "snippet": "Engineering Placements 2027/28 ENGINEERING PLACEMENTS IN DESIGN, ANALYSIS, TEST & VEHICLE DYNAMICS (Please indicate in your cover letter if you have a particular interest in any of the above disciplines) Location: Multimatic Technical Centre Europe, Thetford, Norfolk, United Kingdom Are you looking for a 10-month industrial placement as part of your university course? Placements start in August 2027 completing in June 2028. THIS OPPORTUNITY IS OPEN UNDERGRADUATES Company Overview: Multimatic is a global automotive supply company providing hardware and engineering services to OEMs around the world. Multimatic Technical Centre Europe (MTCE) is a leading supplier of engineering and vehicle deve",
    "first_seen": "2026-09-23",
    "last_seen": "2026-10-25",
-   "missed": 25,
+   "missed": 26,
    "active": false,
    "is_new": false,
    "score": 56,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "42d3e2f6064b",
@@ -8183,11 +8259,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "Strong SolidWorks match, but term and start aren't stated. About 107 km away in Kitchener, on-site only.",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 55,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "022f74560f90",
@@ -8519,11 +8595,11 @@
    "snippet": "Co-op and PEY Student Opportunities Winter & Summer 2027 About Us Ready to kickstart your career in one of Canada’s rapidly growing industries? Join Kinectrics, a company that takes pride in being consistently ranked as one of the best places to work in the nuclear and energy sector, where purpose and people mean as much as innovation and growth. Since 2023, Kinectrics has employed over 200 students, providing meaningful opportunities to learn and make an impact. Our commitment to developing the next generation of talent has been recognized through awards including Best Co-op Employer of the Year and the University of Waterloo Award for Next Generation Employment Innovation. Shape Your Caree",
    "first_seen": "2026-09-24",
    "last_seen": "2026-11-02",
-   "missed": 21,
+   "missed": 22,
    "active": false,
    "is_new": false,
    "score": 52,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "32f7f2934ddf",
@@ -8733,7 +8809,7 @@
    "missed": 7,
    "active": false,
    "is_new": false,
-   "score": 51,
+   "score": 50,
    "missed_on": "2026-11-15"
   },
   {
@@ -8766,11 +8842,11 @@
    "snippet": "Requisition ID: 102171 Job Category: Campus; Engineering Location: Wollongong, New South Wales, Australia Join a company that is passionately committed to the pursuit of a better world through positive change. With more than 65 years of business and technical expertise in mining , energy , and infrastructure , our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally. Our Project Delivery Group (PDG) is a dynamic team of professionals passionately committed to world-class project delivery across the globe. With expertise in sustainable s",
    "first_seen": "2026-10-01",
    "last_seen": "2026-11-01",
-   "missed": 22,
+   "missed": 23,
    "active": false,
    "is_new": false,
    "score": 50,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "98f3b3172e5d",
@@ -8914,44 +8990,6 @@
    "missed_on": "2026-11-15"
   },
   {
-   "id": "8bb6e8ad776e",
-   "title": "Intern Bachelors Field Service Technician",
-   "company": "Honeywell",
-   "sector": "Aerospace & automation",
-   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160530",
-   "source": "Honeywell",
-   "source_type": "oracle",
-   "city": "Markham",
-   "location": "Markham",
-   "region": "ontario",
-   "km": 25,
-   "mode": "",
-   "term": "unclear",
-   "term_months": [],
-   "start": "unclear",
-   "pay": [
-    22.0,
-    25.0
-   ],
-   "kw": [
-    "Mechanical Engineering",
-    "Systems"
-   ],
-   "skills": [],
-   "match": 0.4,
-   "citizen": false,
-   "posted": "2026-10-19",
-   "deadline": null,
-   "snippet": "As an Intern Bachelor's Field Service Technician here at Honeywell, you will have the opportunity to provide high-level technical support and service to our customers, ensuring the optimal performance of Honeywell products and systems. You will troubleshoot and resolve complex technical issues, perform maintenance and repairs, and provide training and guidance to customers and junior technicians. Your expertise and dedication will drive customer satisfaction and contribute to the success of our service operations. In this role, you will impact the efficiency and reliability of our service operations, enhance customer satisfaction, and support the growth of our business by ensuring the highes",
-   "first_seen": "2026-10-19",
-   "last_seen": "2026-11-05",
-   "missed": 18,
-   "active": false,
-   "is_new": false,
-   "score": 50,
-   "missed_on": "2026-11-23"
-  },
-  {
    "id": "7602d3b6b218",
    "title": "GE Vernova Commercial Internship – US – Summer 2027-1",
    "company": "GE Vernova",
@@ -9021,6 +9059,44 @@
    "is_new": false,
    "score": 50,
    "missed_on": "2026-11-15"
+  },
+  {
+   "id": "8bb6e8ad776e",
+   "title": "Intern Bachelors Field Service Technician",
+   "company": "Honeywell",
+   "sector": "Aerospace & automation",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160530",
+   "source": "Honeywell",
+   "source_type": "oracle",
+   "city": "Markham",
+   "location": "Markham",
+   "region": "ontario",
+   "km": 25,
+   "mode": "",
+   "term": "unclear",
+   "term_months": [],
+   "start": "unclear",
+   "pay": [
+    22.0,
+    25.0
+   ],
+   "kw": [
+    "Mechanical Engineering",
+    "Systems"
+   ],
+   "skills": [],
+   "match": 0.4,
+   "citizen": false,
+   "posted": "2026-10-19",
+   "deadline": null,
+   "snippet": "As an Intern Bachelor's Field Service Technician here at Honeywell, you will have the opportunity to provide high-level technical support and service to our customers, ensuring the optimal performance of Honeywell products and systems. You will troubleshoot and resolve complex technical issues, perform maintenance and repairs, and provide training and guidance to customers and junior technicians. Your expertise and dedication will drive customer satisfaction and contribute to the success of our service operations. In this role, you will impact the efficiency and reliability of our service operations, enhance customer satisfaction, and support the growth of our business by ensuring the highes",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-11-05",
+   "missed": 19,
+   "active": false,
+   "is_new": false,
+   "score": 49,
+   "missed_on": "2026-11-24"
   },
   {
    "id": "2842b62ab5b4",
@@ -9167,11 +9243,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "Winter term with an immediate start, so probably too early. Watch for a May 2027 version. About 44 km away (Brampton).",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 48,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "a4c4b5370053",
@@ -9353,11 +9429,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "Flexible 4 to 16 months. Start not stated. Mostly coordination rather than design. Needs security clearance. About 54 km away.",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 47,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "7cf34987d803",
@@ -9394,11 +9470,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "Term and start not stated. Mechanical is accepted but chemical is preferred. About 45 km away (Whitby).",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 47,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "bf18a2ec70f4",
@@ -9434,11 +9510,11 @@
    "snippet": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n \nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities. \n \nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of what’s",
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-16",
-   "missed": 7,
+   "missed": 8,
    "active": false,
    "is_new": false,
    "score": 46,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "ca6dc5a2e743",
@@ -9513,11 +9589,11 @@
    "snippet": "Innovation Program Management Co-op Student (Winter 2027) About Us Ready to kickstart your career in one of Canada’s rapidly growing industries? Join Kinectrics, where purpose and people matter as much as innovation and growth. Our work advances clean energy, nuclear innovation, and life-saving medical isotopes. Since 2023, Kinectrics has employed over 200 students, providing them with the opportunity to grow and make a meaningful impact. Being recognized as Best Co-op Employer of the Year and recipient of the University of Waterloo Award for Next Generation Employment Innovation reflects our commitment to developing the next generation of talent. Join Kinectrics' Innovation Hub and work wit",
    "first_seen": "2026-09-23",
    "last_seen": "2026-10-25",
-   "missed": 29,
+   "missed": 30,
    "active": false,
    "is_new": false,
    "score": 46,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "ee0936ffd9ea",
@@ -9591,44 +9667,6 @@
    "missed_on": "2026-11-15"
   },
   {
-   "id": "8cf3efb46c8e",
-   "title": "Systems Engineering Co-op",
-   "company": "RTX (Pratt & Whitney Canada, Collins)",
-   "sector": "Aerospace",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039",
-   "source": "RTX (Pratt & Whitney Canada, Collins)",
-   "source_type": "workday",
-   "city": "Sudbury",
-   "location": "Sudbury",
-   "region": "ontario",
-   "km": 296,
-   "mode": "Hybrid",
-   "term": "unclear",
-   "term_months": [],
-   "start": "unclear",
-   "pay": null,
-   "kw": [
-    "Mechanical Engineering",
-    "Systems",
-    "Manufacturing"
-   ],
-   "skills": [
-    "MATLAB"
-   ],
-   "match": 0.67,
-   "citizen": true,
-   "posted": "2026-11-10",
-   "deadline": null,
-   "snippet": "Date Posted: 2026-11-10 Country: United States of America Location: US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG Position Role Type: Onsite U.S. Citizen, U.S. Person, or Immigration Status Requirements: Active and transferable U.S. government issued security clearance is required prior to start date.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance​ Security Clearance Type: DoD Clearance: Secret Security Clearance Status: Ability to obtain INTERIM U.S. government issued security clearance is required prior to start date Are you ready to explore the world of aerospace and defense? Do you want to learn from and collaborate with some of the gr",
-   "first_seen": "2026-10-26",
-   "last_seen": "2026-11-11",
-   "missed": 3,
-   "active": false,
-   "is_new": false,
-   "score": 45,
-   "missed_on": "2026-11-15"
-  },
-  {
    "id": "402f9c875f5a",
    "title": "Professional Experience Year (PEY) - Engineering - Niagara",
    "company": "Ontario Power Generation",
@@ -9663,11 +9701,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "PEY is usually 12 to 16 months, but this listing doesn't say. About 95 km away. Open the posting to confirm.",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 45,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "f0c9de952657",
@@ -9707,6 +9745,44 @@
    "missed_on": "2026-11-15"
   },
   {
+   "id": "8cf3efb46c8e",
+   "title": "Systems Engineering Co-op",
+   "company": "RTX (Pratt & Whitney Canada, Collins)",
+   "sector": "Aerospace",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039",
+   "source": "RTX (Pratt & Whitney Canada, Collins)",
+   "source_type": "workday",
+   "city": "Sudbury",
+   "location": "Sudbury",
+   "region": "ontario",
+   "km": 296,
+   "mode": "Hybrid",
+   "term": "unclear",
+   "term_months": [],
+   "start": "unclear",
+   "pay": null,
+   "kw": [
+    "Mechanical Engineering",
+    "Systems",
+    "Manufacturing"
+   ],
+   "skills": [
+    "MATLAB"
+   ],
+   "match": 0.67,
+   "citizen": true,
+   "posted": "2026-11-10",
+   "deadline": null,
+   "snippet": "Date Posted: 2026-11-10 Country: United States of America Location: US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG Position Role Type: Onsite U.S. Citizen, U.S. Person, or Immigration Status Requirements: Active and transferable U.S. government issued security clearance is required prior to start date.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance​ Security Clearance Type: DoD Clearance: Secret Security Clearance Status: Ability to obtain INTERIM U.S. government issued security clearance is required prior to start date Are you ready to explore the world of aerospace and defense? Do you want to learn from and collaborate with some of the gr",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-11-11",
+   "missed": 3,
+   "active": false,
+   "is_new": false,
+   "score": 44,
+   "missed_on": "2026-11-15"
+  },
+  {
    "id": "a72b582eb8c4",
    "title": "intern",
    "company": "Strik, Baldinelli, Moniz Ltd.",
@@ -9741,11 +9817,11 @@
    "snippet": "intern Title posted on Talent.com - Structural Engineering Intern Posted on October 19, 2026 by Employer details Strik, Baldinelli, Moniz Ltd. Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details <p>Civil Engineering Intern Location: London Office Position Type : 16-month Internship Term: May 2027 to August 2028 Salary Range : $25.00 per hour Position: New SBM is currently seeking a structural design intern to work with our engineering staff in the commercial and residential building design divisions of our London office for 16 months.</p> <p>The ",
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-09",
-   "missed": 14,
+   "missed": 15,
    "active": false,
    "is_new": false,
    "score": 44,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "9cdbfbf342fd",
@@ -9782,11 +9858,11 @@
    "snippet": "intern Title posted on Talent.com - Structural Engineering Intern Posted on October 19, 2026 by Employer details Strik, Baldinelli, Moniz Ltd. Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details <p>Civil Engineering Intern Location: London Office Position Type : 16-month Internship Term: May 2027 to August 2028 Salary Range : $25.00 per hour Position: New SBM is currently seeking a structural design intern to work with our engineering staff in the commercial and residential building design divisions of our London office for 16 months.</p> <p>The ",
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-02",
-   "missed": 21,
+   "missed": 22,
    "active": false,
    "is_new": false,
    "score": 44,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "585a4a98cc89",
@@ -9823,11 +9899,11 @@
    "snippet": "intern Title posted on Talent.com - Structural Engineering Intern Posted on October 19, 2026 by Employer details Strik, Baldinelli, Moniz Ltd. Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details <p>Civil Engineering Intern Location: London Office Position Type : 16-month Internship Term: May 2027 to August 2028 Salary Range : $25.00 per hour Position: New SBM is currently seeking a structural design intern to work with our engineering staff in the commercial and residential building design divisions of our London office for 16 months.</p> <p>The ",
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-26",
-   "missed": 28,
+   "missed": 29,
    "active": false,
    "is_new": false,
    "score": 44,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "36ab51fca874",
@@ -9857,11 +9933,11 @@
    "snippet": "· Configuring and maintaining all PC hardware as per Multimatic Inc’s hardware specifications. · Assist in maintaining the physical network as required. This includes servers, printers, plotters, and switches, etc. · Assist in maintaining all Windows server platforms as required. · Provide technical support for all desktop operating systems. · Install and maintain PC application programs as per Multimatic Inc’s software specifications. · Support all telephone systems. · Assist in keeping an accurate hardware inventory of all computer equipment. · Help ensure all label printers and scanner guns are functioning and provide maintenance when needed. · Configuring and maintaining PC hardware as p",
    "first_seen": "2026-10-06",
    "last_seen": "2026-11-15",
-   "missed": 4,
+   "missed": 5,
    "active": false,
    "is_new": false,
    "score": 44,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "a69cac51b726",
@@ -10036,11 +10112,11 @@
    "snippet": "intern Title posted on CareersInFood.com - Operations Engineering Trainee Posted on October 21, 2026 by Employer details Bunge North America Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details City : Nipawin State : Saskatchewan (CA-SK) Country : Canada (CA) Requisition Number : 47738 A Day in the Life:Bunge has an outstanding opportunity for individuals to join the Bunge Operations team as an Engineering Operations Trainee and participate in a comprehensive training program crafted to give an understanding of the operations and processes of Bung",
    "first_seen": "2026-10-22",
    "last_seen": "2026-10-30",
-   "missed": 24,
+   "missed": 25,
    "active": false,
    "is_new": false,
    "score": 43,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "aa83a82e160a",
@@ -10077,11 +10153,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "Starts January 2027, before May. About 112 km away.",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 43,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "eb47b2a2c6f1",
@@ -10218,7 +10294,7 @@
    "missed": 5,
    "active": false,
    "is_new": false,
-   "score": 39,
+   "score": 38,
    "missed_on": "2026-11-15"
   },
   {
@@ -10253,11 +10329,11 @@
    "snippet": "intern Title posted on Talent.com - Engineering Intern - Structural EIT Posted on October 04, 2026 by Employer details Cementation Canada Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details Location: North Bay, ONHybrid Work Schedule: Remote Option: Monday & Friday / In-Office: Tuesday, Wednesday, Thursday.Job Type: Full Time, Permanent, 40HRs/WK.Reports To: Lead Discipline Engineer - StructuralPosted: September 30, 2026Salary Range: $70,000.00 to $85,000.00Incentive OpportunityIn addition to base compensation, this role is eligible to participat",
    "first_seen": "2026-11-01",
    "last_seen": "2026-11-02",
-   "missed": 21,
+   "missed": 22,
    "active": false,
    "is_new": false,
    "score": 38,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "2b2ec6b64e18",
@@ -10291,49 +10367,11 @@
    "snippet": "intern Title posted on Talent.com - Engineering Intern - Structural EIT Posted on October 04, 2026 by Employer details Cementation Canada Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details Location: North Bay, ONHybrid Work Schedule: Remote Option: Monday & Friday / In-Office: Tuesday, Wednesday, Thursday.Job Type: Full Time, Permanent, 40HRs/WK.Reports To: Lead Discipline Engineer - StructuralPosted: September 30, 2026Salary Range: $70,000.00 to $85,000.00Incentive OpportunityIn addition to base compensation, this role is eligible to participat",
    "first_seen": "2026-10-25",
    "last_seen": "2026-10-31",
-   "missed": 23,
+   "missed": 24,
    "active": false,
    "is_new": false,
    "score": 38,
-   "missed_on": "2026-11-23"
-  },
-  {
-   "id": "b3006fd7f9ec",
-   "title": "intern",
-   "company": "Cementation Canada",
-   "sector": "Aggregator",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50526051?source=searchresults",
-   "source": "Job Bank Canada",
-   "source_type": "jobbank",
-   "city": "North Bay",
-   "location": "North Bay",
-   "region": "ontario",
-   "km": 250,
-   "mode": "On-site",
-   "term": "unclear",
-   "term_months": [],
-   "start": "unclear",
-   "pay": [
-    33.65,
-    40.87
-   ],
-   "kw": [
-    "Design",
-    "Systems"
-   ],
-   "skills": [],
-   "match": 0.4,
-   "citizen": false,
-   "posted": "2026-10-04",
-   "deadline": null,
-   "snippet": "intern Title posted on Talent.com - Engineering Intern - Structural EIT Posted on October 04, 2026 by Employer details Cementation Canada Save to favourites Your favourites To add a job posting to your favourites, you need a Job Bank account. Sign in or sign up now! Sign in Sign up for a Plus account Actions Email Copy link Job details Location: North Bay, ONHybrid Work Schedule: Remote Option: Monday & Friday / In-Office: Tuesday, Wednesday, Thursday.Job Type: Full Time, Permanent, 40HRs/WK.Reports To: Lead Discipline Engineer - StructuralPosted: September 30, 2026Salary Range: $70,000.00 to $85,000.00Incentive OpportunityIn addition to base compensation, this role is eligible to participat",
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-24",
-   "missed": 30,
-   "active": false,
-   "is_new": false,
-   "score": 38,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "ec0819064034",
@@ -10408,42 +10446,6 @@
    "missed_on": "2026-11-15"
   },
   {
-   "id": "da12e2a11d21",
-   "title": "Studentische Aushilfe im Bereich Fertigungstechnik (m/w/d)",
-   "company": "GE Vernova",
-   "sector": "Energy equipment",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Monchengladbach/Studentische-Aushilfe-im-Bereich-Fertigungstechnik--m-w-d-_R5056106-3",
-   "source": "GE Vernova",
-   "source_type": "workday",
-   "city": null,
-   "location": "Monchengladbach",
-   "region": "unknown",
-   "km": null,
-   "mode": "",
-   "term": "unclear",
-   "term_months": [],
-   "start": "unclear",
-   "pay": null,
-   "kw": [
-    "Manufacturing"
-   ],
-   "skills": [
-    "CAD"
-   ],
-   "match": 0.22,
-   "citizen": true,
-   "posted": "2026-10-21",
-   "deadline": null,
-   "snippet": "Job Description Summary GE Vernova stattet 90 Prozent der Energieversorgungsunternehmen weltweit aus und unterstützt sie so dabei, Strom zu generieren und zu verteilen. Mit über 200 Jahren gemeinsamer Erfahrung beim Entwickeln modernster Lösungen ermöglichen unsere Produkte und Dienstleistungen belastbare, effizientere und zuverlässige Energiesysteme. Über 20.000 Mitarbeiter:innen in 80 Ländern arbeiten daran, die Anforderungen unserer Kund:innen global zu erfüllen. Sie alle widmen sich einer gemeinsamen Aufgabe: Partner des Vertrauens für unsere Kund:innen zu sein – von der Energiequelle bis zu den Städten. Unser Standort in Mönchengladbach produziert seit über 139 Jahren mit rund 300 Mitar",
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-11-01",
-   "missed": 14,
-   "active": false,
-   "is_new": false,
-   "score": 37,
-   "missed_on": "2026-11-15"
-  },
-  {
    "id": "9ede8180ac59",
    "title": "Professional Experience Year (PEY) - Engineering - Tiverton",
    "company": "Ontario Power Generation",
@@ -10478,11 +10480,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "About 174 km away, so he'd need to relocate. Term and start not stated.",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 37,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "a68eaa142a1e",
@@ -10520,11 +10522,47 @@
    "summary_date": "2026-09-23",
    "fit_notes": "Only 4 months from January 2027, so not a fit.",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 37,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
+  },
+  {
+   "id": "da12e2a11d21",
+   "title": "Studentische Aushilfe im Bereich Fertigungstechnik (m/w/d)",
+   "company": "GE Vernova",
+   "sector": "Energy equipment",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Monchengladbach/Studentische-Aushilfe-im-Bereich-Fertigungstechnik--m-w-d-_R5056106-3",
+   "source": "GE Vernova",
+   "source_type": "workday",
+   "city": null,
+   "location": "Monchengladbach",
+   "region": "unknown",
+   "km": null,
+   "mode": "",
+   "term": "unclear",
+   "term_months": [],
+   "start": "unclear",
+   "pay": null,
+   "kw": [
+    "Manufacturing"
+   ],
+   "skills": [
+    "CAD"
+   ],
+   "match": 0.22,
+   "citizen": true,
+   "posted": "2026-10-21",
+   "deadline": null,
+   "snippet": "Job Description Summary GE Vernova stattet 90 Prozent der Energieversorgungsunternehmen weltweit aus und unterstützt sie so dabei, Strom zu generieren und zu verteilen. Mit über 200 Jahren gemeinsamer Erfahrung beim Entwickeln modernster Lösungen ermöglichen unsere Produkte und Dienstleistungen belastbare, effizientere und zuverlässige Energiesysteme. Über 20.000 Mitarbeiter:innen in 80 Ländern arbeiten daran, die Anforderungen unserer Kund:innen global zu erfüllen. Sie alle widmen sich einer gemeinsamen Aufgabe: Partner des Vertrauens für unsere Kund:innen zu sein – von der Energiequelle bis zu den Städten. Unser Standort in Mönchengladbach produziert seit über 139 Jahren mit rund 300 Mitar",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-11-01",
+   "missed": 14,
+   "active": false,
+   "is_new": false,
+   "score": 36,
+   "missed_on": "2026-11-15"
   },
   {
    "id": "0c5b38ee0319",
@@ -10623,11 +10661,11 @@
    "snippet": "Requisition ID: 101672 Job Category: Campus; Engineering Location: Newcastle, New South Wales, Australia Join a company that is passionately committed to the pursuit of a better world through positive change. With more than 65 years of business and technical expertise in mining , energy , and infrastructure , our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally. Our Project Delivery Group (PDG) is a dynamic team of professionals passionately committed to world-class project delivery across the globe. With expertise in sustainable st",
    "first_seen": "2026-10-01",
    "last_seen": "2026-10-29",
-   "missed": 25,
+   "missed": 26,
    "active": false,
    "is_new": false,
    "score": 36,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "c36d8f8df764",
@@ -10666,11 +10704,11 @@
    "summary_date": "2026-09-23",
    "fit_notes": "Only 4 or 8 months from January 2027, so not a fit. The PEY posting above is the one to apply to.",
    "last_seen": "2026-11-07",
-   "missed": 16,
+   "missed": 17,
    "active": false,
    "is_new": false,
    "score": 36,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "fecfc49279ba",
@@ -10840,11 +10878,11 @@
    "snippet": "At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!\n \nOur mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities. \n \nIndustry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of what’s",
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-16",
-   "missed": 7,
+   "missed": 8,
    "active": false,
    "is_new": false,
    "score": 31,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "089373672132",
@@ -10912,11 +10950,11 @@
    "snippet": "Requisition ID: 102185 Job Category: Campus Location: Mississauga, Ontario Join a company that is passionately committed to the pursuit of a better world through positive change. With more than 70 years of business and technical expertise in mining , energy , and infrastructure , our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally. Our Project Delivery Group (PDG) is a dynamic team of professionals passionately committed to world-class project delivery across the globe. With expertise in sustainable studies, asset building and oper",
    "first_seen": "2026-10-08",
    "last_seen": "2026-10-27",
-   "missed": 27,
+   "missed": 28,
    "active": false,
    "is_new": false,
    "score": 29,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   },
   {
    "id": "d5761975a7a8",
@@ -10948,11 +10986,11 @@
    "snippet": "Requisition ID: 101545 Job Category: Campus Location: Thunder Bay, ON, Canada Join a company that is passionately committed to the pursuit of a better world through positive change. With more than 70 years of business and technical expertise in mining , energy , and infrastructure , our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally. Are you looking for an opportunity to join a diverse group of professionals who are committed to remaining exceptional? We look forward to hearing from you. Our energy expertise in the oil and gas sec",
    "first_seen": "2026-10-01",
    "last_seen": "2026-11-16",
-   "missed": 7,
+   "missed": 8,
    "active": false,
    "is_new": false,
    "score": 28,
-   "missed_on": "2026-11-23"
+   "missed_on": "2026-11-24"
   }
  ]
 }
